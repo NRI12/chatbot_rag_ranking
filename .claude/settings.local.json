@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__plugin_claude-mem_mcp-search__smart_outline",
+      "mcp__plugin_claude-mem_mcp-search__get_observations",
+      "Bash(python3)",
+      "Bash(pdftotext \"D:\\\\chatbot_rag_ranking/data/Quyet-dinh-ngan-noi-quy-cua-truong-dhqt/10.-Noi-Quy-SV-truong-DHQT-cap-nhat-08-2009.pdf\" -)",
+      "mcp__portfolio__check_connection",
+      "mcp__portfolio__scan_local_images",
+      "mcp__portfolio__create_project",
+      "mcp__portfolio__upload_project_image",
+      "mcp__portfolio__add_timeline_event",
+      "mcp__portfolio__upload_event_image",
+      "mcp__portfolio__get_project",
+      "mcp__portfolio__update_project",
+      "mcp__portfolio__update_timeline_event",
+      "mcp__portfolio__create_blog",
+      "WebSearch",
+      "WebFetch(domain:www.pinecone.io)",
+      "WebFetch(domain:weaviate.io)",
+      "WebFetch(domain:sbert.net)",
+      "WebFetch(domain:arxiv.org)",
+      "WebFetch(domain:blog.langchain.com)",
+      "WebFetch(domain:osanseviero.github.io)",
+      "Bash(curl -L -A 'Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36' https://cdn.sanity.io/images/vr8gru94/production/f6fe392bb5287791a2c6052f1eeb3072ad0b7e36-2236x2620.png -o /d/chatbot_rag_ranking/img/web/rag_architecture.png --max-time 30 -w 'HTTP %{http_code} | Size: %{size_download} bytes\\\\n')",
+      "Bash(curl -L -A 'Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36' https://weaviate.io/assets/images/hybrid-search-2242a956a4d86dba7f67814dc2077800.png -o /d/chatbot_rag_ranking/img/web/hybrid_search.png --max-time 30 -w 'HTTP %{http_code} | Size: %{size_download} bytes\\\\n')",
+      "Bash(curl -L -A 'Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36' https://raw.githubusercontent.com/huggingface/sentence-transformers/main/docs/img/CrossEncoder.png -o /d/chatbot_rag_ranking/img/web/cross_encoder.png --max-time 30 -w 'HTTP %{http_code} | Size: %{size_download} bytes\\\\n')",
+      "Bash(curl -L -A 'Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36' https://storage.ghost.io/c/97/88/97889716-a759-46f4-b63f-4f5c46a13333/content/images/2023/08/image-21.png -o /d/chatbot_rag_ranking/img/web/llm_eval.png --max-time 30 -w 'HTTP %{http_code} | Size: %{size_download} bytes\\\\n')",
+      "Bash(curl -L -A 'Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36' https://raw.githubusercontent.com/huggingface/sentence-transformers/main/docs/img/Bi_vs_Cross-Encoder.png -o /d/chatbot_rag_ranking/img/web/cross_encoder.png --max-time 30 -w 'HTTP %{http_code} | Size: %{size_download} bytes\\\\n')",
+      "mcp__portfolio__update_blog"
+    ]
+  }
+}

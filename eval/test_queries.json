@@ -1,0 +1,2219 @@
+[
+  {
+    "question": "Nếu có sinh viên nào vi phạm quy định về thi hộ lần đầu, thì sẽ bị xử lý như thế nào?",
+    "question_raw": "Hình thức xử lý nào được áp dụng cho sinh viên vi phạm quy định về thi hộ lần thứ nhất?",
+    "answer": "sinh viên bị kỷ luật ở mức đình chỉ học tập 01 năm",
+    "type": "factoid",
+    "relevant_ids": [
+      "1142928c470f73ce",
+      "d3f0ed94c1b6e185"
+    ],
+    "sources": [
+      {
+        "source": "3.-Phu-luc-1-30122022-Signed-2.pdf",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "question": "Làm thế nào để tiến hành việc đánh giá kết quả học tập và rèn luyện của sinh viên?",
+    "question_raw": "Cách thực hiện công tác đánh giá kết quả rèn luyện sinh viên như thế nào?",
+    "answer": "Thực hiện công tác đánh giá kết quả rèn luyện SV; hướng dẫn, khuyến khích, tạo điều kiện cho SV tham gia các hoạt động học thuật, nghiên cứu khoa học; các hoạt động văn, thể, mỹ.",
+    "type": "procedural",
+    "relevant_ids": [
+      "9e47e37793fbd52f",
+      "97e05348c664251f",
+      "961f58c1decf7353"
+    ],
+    "sources": [
+      {
+        "source": "18.-QD-ban-hanh-Quy-dinh-Co-van-hoc-tap.signed.signed.signed.signed.signed.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "question": "Mình có bao lâu để nộp đầy đủ hồ sơ yêu cầu thanh toán?",
+    "question_raw": "Thời hạn để nhận đủ hồ sơ đề nghị thanh toán là bao lâu?",
+    "answer": "Trong thời hạn 40 ngày, kể từ ngày nhận đủ hồ sơ đề nghị thanh toán của người tham gia bảo hiểm y tế khám bệnh, chữa bệnh theo quy định tại điểm a và điểm b khoản 2.",
+    "type": "factoid",
+    "relevant_ids": [
+      "598e330e8034523a",
+      "26291122bc5ffe11",
+      "6be13d63fe4fff22"
+    ],
+    "sources": [
+      {
+        "source": "26.Luat-BHYT-2008.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "question": "Lớp mình cần thực hiện những bước gì để tổ chức các sự kiện ngoại khóa và vẫn đảm bảo đúng theo các quy định về tài chính và hoạt động của sinh viên?",
+    "question_raw": "Ban cán sự lớp cần làm gì để tổ chức các hoạt động ngoại khóa và đảm bảo tuân thủ các quy định liên quan đến tài chính và hoạt động của sinh viên?",
+    "answer": "Ban cán sự lớp có trách nhiệm lập kế hoạch chi tiêu cho các hoạt động ngoại khóa, báo cáo kết quả sử dụng kinh phí và phải được sự đồng ý của tập thể lớp. Đồng thời, các hoạt động của tập thể lớp cũng cần tuân theo quy định về việc tổ chức và tham gia các hoạt động sinh viên, bao gồm việc đảm bảo an ninh, tuân thủ pháp luật và không vi phạm các quy định của nhà nước.",
+    "type": "multi_hop",
+    "relevant_ids": [
+      "8d3eefdf911b73a4",
+      "9c5083bbb4884f38"
+    ],
+    "sources": [
+      {
+        "source": "272-Phu-luc-Quy-dinh-doi-voi-BCSL.pdf",
+        "page": 4
+      },
+      {
+        "source": "20.-2019-Quy-che-CTSV-DHQG-HCM.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "question": "Mình cần làm gì để xin hoãn thi nếu có sự cố xảy ra?",
+    "question_raw": "Thủ tục để hoãn thi trong trường hợp bất khả kháng là gì?",
+    "answer": "GV được phân công giảng dạy học phần đó phải gửi văn bản (có xác nhận của Lãnh đạo Khoa/Bộ môn quản lý giảng dạy) thông báo tình hình cho Phòng BĐCLGD&KT và Phòng ĐTĐH; Phòng BĐCLGD&KT có trách nhiệm trình Hiệu Trưởng ra quyết định hoãn thi, thông báo cho các đơn vị liên quan và SV.",
+    "type": "procedural",
+    "relevant_ids": [
+      "56ae2cd670c715c3",
+      "2306d3219a82e3ec",
+      "5fdb60eed258425d"
+    ],
+    "sources": [
+      {
+        "source": "17.-Quy-che_To-chuc-thi-HK_Tr-Tiep.ban-hanh_05.01.25-Signed-8.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "question": "Sinh viên có thể lấy giấy chứng nhận kết quả học tập vào thời điểm nào, và ai sẽ giúp họ trong việc đăng ký các môn học trong suốt quá trình học?",
+    "question_raw": "Khi nào sinh viên có thể nhận giấy chứng nhận kết quả học tập và ai sẽ hướng dẫn họ về việc đăng ký học phần trong quá trình học tập?",
+    "answer": "Sinh viên có thể nhận giấy chứng nhận kết quả học tập khi hoàn tất quá trình học tập theo quy định của trường. Trong quá trình học tập, các đơn vị liên quan có trách nhiệm hướng dẫn sinh viên về việc đăng ký học phần mỗi học kỳ và tư vấn cho họ về kế hoạch học tập phù hợp.",
+    "type": "multi_hop",
+    "relevant_ids": [
+      "e13f7859fad43283",
+      "c05477a11dbb8124"
+    ],
+    "sources": [
+      {
+        "source": "15.-QD-719-6.12.2021_Quy-che-Hoc-vu-DH-Quoc-te-2021.signed-1.signed.signed.signed.signed-2.pdf",
+        "page": 19
+      },
+      {
+        "source": "18.-QD-ban-hanh-Quy-dinh-Co-van-hoc-tap.signed.signed.signed.signed.signed.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "question": "Nếu em muốn tìm hiểu về những yêu cầu cần thiết để tốt nghiệp, em cần phải làm gì theo quy định của trường và những luật lệ nào từ phía chính phủ?",
+    "question_raw": "Nếu sinh viên muốn biết về các quy định liên quan đến việc tốt nghiệp, họ cần thực hiện những nghĩa vụ gì theo quy chế của trường và các quy định cụ thể nào từ chính phủ?",
+    "answer": "Sinh viên cần thực hiện đầy đủ trách nhiệm và nghĩa vụ theo các quy định, quy chế của nhà trường đã được ban hành chính thức. Sau khi đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với Trường, Hiệu trưởng sẽ ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp hoặc giấy chứng nhận tốt nghiệp tạm thời trong vòng 03 tháng.",
+    "type": "multi_hop",
+    "relevant_ids": [
+      "0cee65c91ab567e6",
+      "c6950d5734c9f71b"
+    ],
+    "sources": [
+      {
+        "source": "28.Luat-SDBS-cua-Luat-BHYT_2014.pdf",
+        "page": 1
+      },
+      {
+        "source": "15.-QD-719-6.12.2021_Quy-che-Hoc-vu-DH-Quoc-te-2021.signed-1.signed.signed.signed.signed-2.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "question": "Mình cần biết những điều kiện nào để giữ được học bổng tài năng và trường có những chính sách hỗ trợ học phí nào không?",
+    "question_raw": "Sinh viên có thể dựa vào những căn cứ nào để duy trì học bổng tài năng và có những chính sách hỗ trợ học phí nào từ trường Đại học Quốc tế?",
+    "answer": "Để duy trì học bổng tài năng (HBTS), sinh viên cần dựa vào điểm trung bình học tập và xếp loại điểm rèn luyện của các học kỳ. Cụ thể, điểm trung bình học tập và xếp loại điểm rèn luyện học kỳ I được xét cho học kỳ II, và điểm trung bình học tập học kỳ III được xét cho chính học kỳ III. Ngoài ra, trường còn có các chính sách miễn, giảm học phí và hỗ trợ chi phí học tập cho sinh viên, cụ thể hóa theo các nghị định và quyết định của Chính phủ, nhằm hỗ trợ sinh viên, đặc biệt là những sinh viên dân tộc thiểu số.",
+    "type": "multi_hop",
+    "relevant_ids": [
+      "f66cfc02ab2c2439",
+      "ad1333c0695e3af9"
+    ],
+    "sources": [
+      {
+        "source": "16.-Quy-dinh-xet-cap-hoc-bong-tai-Truong-DHQT-Signed-4.pdf",
+        "page": 11
+      },
+      {
+        "source": "9.-QD688-MGHP-2024.pdf",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "question": "Để đăng ký học chương trình thứ hai, sinh viên cần đáp ứng những yêu cầu gì?",
+    "question_raw": "Sinh viên cần đạt điều kiện gì để được đăng ký học chương trình thứ hai?",
+    "answer": "Có học lực và điểm tuyển sinh đầu vào thỏa một trong hai điều kiện sau:",
+    "type": "factoid",
+    "relevant_ids": [
+      "bbf68cb3fa13abc1",
+      "579974d28dea16ee"
+    ],
+    "sources": [
+      {
+        "source": "15.-QD-719-6.12.2021_Quy-che-Hoc-vu-DH-Quoc-te-2021.signed-1.signed.signed.signed.signed-2.pdf",
+        "page": 22
+      }
+    ]
+  },
+  {
+    "question": "Khi tham gia các hoạt động do Trung tâm Sinh viên tổ chức, sinh viên có quyền lợi gì và họ cần phải tuân thủ những quy tắc nào về an toàn và bảo đảm an ninh ở khu vực mình ở?",
+    "question_raw": "Sinh viên có quyền gì khi tham gia các hoạt động do Trung tâm Sinh viên tổ chức và họ phải tuân thủ những quy định nào liên quan đến an toàn và an ninh trong khu vực sinh sống của mình?",
+    "answer": "Sinh viên được quyền tham gia học tập và hoạt động theo quy định của Đại học Quốc gia TP.HCM và các cơ sở đào tạo. Họ cũng có quyền được cấp giấy chứng nhận khi tham gia các hoạt động do Đại học Quốc gia tổ chức. Đồng thời, sinh viên phải tuân thủ các quy định về an ninh, an toàn, giao thông, và phòng chống cháy nổ tại khu vực sinh sống, cũng như hợp tác với các cơ quan liên quan để đảm bảo an toàn cho bản thân và cộng đồng.",
+    "type": "multi_hop",
+    "relevant_ids": [
+      "aed5bcb548c0ce00",
+      "6053a4aafea45f66"
+    ],
+    "sources": [
+      {
+        "source": "20.-2019-Quy-che-CTSV-DHQG-HCM.pdf",
+        "page": 6
+      },
+      {
+        "source": "20.-2019-Quy-che-CTSV-DHQG-HCM.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "question": "Ai là đối tượng chịu ảnh hưởng bởi quy định này ở Trường Đại học Quốc tế?",
+    "question_raw": "Quy định này liên quan đến ai tại Trường Đại học Quốc tế?",
+    "answer": "Quy định chính sách hỗ trợ người học khuyết tật.",
+    "type": "factoid",
+    "relevant_ids": [
+      "f967464303d0225c",
+      "7138069c0a461e60"
+    ],
+    "sources": [
+      {
+        "source": "13.-Quy-dinh-chinh-sach-ho-tro-nguoi-hoc-khuyet-tat.-Signed-4.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "question": "Mỗi phòng thi cần có tối thiểu bao nhiêu người giám thị?",
+    "question_raw": "Mỗi phòng thi phải có ít nhất bao nhiêu cán bộ coi thi?",
+    "answer": "Một phòng thi có ít nhất 01 CBCT;",
+    "type": "factoid",
+    "relevant_ids": [
+      "5a779d581ed35007",
+      "59cfa397d45861d6"
+    ],
+    "sources": [
+      {
+        "source": "17.-Quy-che_To-chuc-thi-HK_Tr-Tiep.ban-hanh_05.01.25-Signed-8.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "question": "Điểm số nào thì được coi là 'Yếu'?",
+    "question_raw": "Điểm chữ nào tương ứng với xếp loại 'Yếu'?",
+    "answer": "D+",
+    "type": "factoid",
+    "relevant_ids": [
+      "fa095d94ffbdda8a",
+      "b45992f6299ceb3d"
+    ],
+    "sources": [
+      {
+        "source": "15.-QD-719-6.12.2021_Quy-che-Hoc-vu-DH-Quoc-te-2021.signed-1.signed.signed.signed.signed-2.pdf",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "question": "Nếu sinh viên không cố gắng trong việc học, thì sẽ có những ảnh hưởng gì đến kỷ luật trong trường và chất lượng giáo dục?",
+    "question_raw": "Nếu sinh viên không nỗ lực học tập, thì điều gì sẽ xảy ra với kỷ cương học đường và chất lượng đào tạo?",
+    "answer": "Nếu sinh viên không nỗ lực học tập, thì sẽ không giữ vững kỷ cương học đường, không nâng cao chất lượng và hiệu quả đào tạo.",
+    "type": "conditional",
+    "relevant_ids": [
+      "b399ee532022a1ef"
+    ],
+    "sources": [
+      {
+        "source": "15.-QD-719-6.12.2021_Quy-che-Hoc-vu-DH-Quoc-te-2021.signed-1.signed.signed.signed.signed-2.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "question": "Nếu tôi cần xin điểm I vì lý do nằm viện hoặc theo yêu cầu của trường, tôi phải làm thế nào và gửi hồ sơ ở đâu?",
+    "question_raw": "Nếu tôi cần xin điểm I do nằm viện hoặc trong trường hợp phải đi thi theo quyết định của trường, tôi cần làm gì và nộp hồ sơ ở đâu?",
+    "answer": "Trong trường hợp bạn cần xin điểm I do nằm viện, bạn hoặc người thân cần làm đơn xin điểm I và gửi kèm theo các minh chứng như giấy nhập viện, đơn thuốc, sổ khám bệnh, giấy bảo hiểm xã hội đến Phòng Đào tạo Đại học. Còn nếu bạn được cử đi thi theo quyết định của trường, bạn cần làm đơn kèm theo quyết định cử đi từ Ban Giám hiệu hoặc Thư mời nhập học của trường đối tác và nộp về Phòng Đào tạo Đại học.",
+    "type": "multi_hop",
+    "relevant_ids": [
+      "e017baa2c079dd68",
+      "fea7bb3f5cddedd1"
+    ],
+    "sources": [
+      {
+        "source": "33.Luat-Thanh-nien-2020.pdf",
+        "page": 1
+      },
+      {
+        "source": "15.-QD-719-6.12.2021_Quy-che-Hoc-vu-DH-Quoc-te-2021.signed-1.signed.signed.signed.signed-2.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "question": "Nếu một bạn trong lớp tham gia vào việc bầu chọn Ban cán sự lớp, thì bạn đó có cơ hội được bầu làm Lớp trưởng không?",
+    "question_raw": "Nếu một sinh viên tham gia bầu kiện toàn Ban cán sự lớp, thì sinh viên đó có thể được bầu làm Lớp trưởng hay không?",
+    "answer": "Căn cứ theo yêu cầu quản lý lớp, Cố vấn học tập và tập thể lớp thống nhất số lượng, cơ cấu bầu kiện toàn Ban cán sự lớp như sau: a) Số lượng bầu kiện toàn Lớp trưởng (nếu có): … nhân sự.",
+    "type": "conditional",
+    "relevant_ids": [
+      "d1e4da2ab82a8aec",
+      "4d55379a6935a9a8"
+    ],
+    "sources": [
+      {
+        "source": "14.-Quy-dinh-doi-voi-Ban-can-su-lop-nam-2025-final-Signed-4.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "question": "Phòng CTSV có vai trò gì trong việc giúp đỡ các cố vấn học tập?",
+    "question_raw": "P.CTSV có trách nhiệm gì trong việc hỗ trợ CVHT?",
+    "answer": "P.CTSV có trách nhiệm phổ biến và hướng dẫn các văn bản thuộc lĩnh vực phụ trách cho CVHT; cung cấp các thông tin về xử lý học vụ của SV cho CVHT; hỗ trợ CVHT trong công tác hỗ trợ và tư vấn pháp lý, tư vấn tâm lý cho SV;",
+    "type": "factoid",
+    "relevant_ids": [
+      "88d8181ee7b4d50e",
+      "40eb19657516265a",
+      "e90fb3ec7f4b6a17"
+    ],
+    "sources": [
+      {
+        "source": "18.-QD-ban-hanh-Quy-dinh-Co-van-hoc-tap.signed.signed.signed.signed.signed.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "question": "Làm thế nào để tính số tiền mà những người thuộc các khoản 20, 21 và 22 cần đóng mỗi tháng?",
+    "question_raw": "Mức đóng hằng tháng của đối tượng quy định tại các khoản 20, 21 và 22 được xác định như thế nào?",
+    "answer": "Mức đóng hằng tháng của đối tượng quy định tại các khoản 20, 21 và 22 tối đa bằng 6% mức lương tối thiểu và do đối tượng đóng.",
+    "type": "procedural",
+    "relevant_ids": [
+      "8af02fdab2a0ca1f",
+      "e77e384a7676095c"
+    ],
+    "sources": [
+      {
+        "source": "26.Luat-BHYT-2008.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "question": "Mình muốn biết quy trình để phòng Đào tạo từ xa công nhận sinh viên nhận học bổng HBTS như thế nào?",
+    "question_raw": "Thủ tục để P.ĐTĐH công nhận sinh viên đạt học bổng HBTS là gì?",
+    "answer": "Trong vòng 07 ngày làm việc sau thời hạn giải quyết thắc mắc (nếu có), P.ĐTĐH tổng hợp danh sách, trình Hiệu trưởng để ra quyết định công nhận sinh viên đạt HBTS.",
+    "type": "procedural",
+    "relevant_ids": [
+      "016f86d4e5ef0c72",
+      "a099681fdb0472ae",
+      "e8916bff98aee2eb"
+    ],
+    "sources": [
+      {
+        "source": "16.-Quy-dinh-xet-cap-hoc-bong-tai-Truong-DHQT-Signed-4.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "question": "Mình cần làm gì để được miễn hoặc giảm bớt một số phần học nếu mình có khó khăn trong việc học?",
+    "question_raw": "Mình cần làm gì để được miễn hoặc giảm một số nội dung môn học nếu mình là người khuyết tật học tập?",
+    "answer": "Hiệu trưởng quyết định điều chỉnh, miễn, giảm, thay thế một số nội dung môn học hoặc một số môn học, hoạt động giáo dục cho phù hợp và được thể hiện trong Kế hoạch giáo dục cá nhân.",
+    "type": "procedural",
+    "relevant_ids": [
+      "791a6d06e68ed1a8",
+      "710c2f0150695f55",
+      "e73ca7e7bed0ae99"
+    ],
+    "sources": [
+      {
+        "source": "13.-Quy-dinh-chinh-sach-ho-tro-nguoi-hoc-khuyet-tat.-Signed-4.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "question": "Giảng viên chủ nhiệm có vai trò gì trong việc hỗ trợ và hướng dẫn sinh viên?",
+    "question_raw": "CVHT có nhiệm vụ gì trong việc tư vấn cho sinh viên?",
+    "answer": "Học tập, nghiên cứu, nắm vững và thường xuyên cập nhật, tư vấn cho SV những thay đổi, bổ sung của các nội dung như mục tiêu đào tạo, nội dung, chương trình, phương pháp đào tạo, kế hoạch học tập của lớp SV được phân công; quy chế của Bộ Giáo dục và Đào tạo, quy chế học vụ, các quy chế, quy định, nội quy của Nhà trường về học tập, rèn luyện và công tác SV; các chính sách của Nhà trường về học bổng, khen thưởng, kỷ luật, học phí và các chế độ chính sách khác; và các quy định và hướng dẫn của Khoa/Bộ môn quản lý ngành đào tạo của lớp SV.",
+    "type": "factoid",
+    "relevant_ids": [
+      "a592b45f2661c0fd",
+      "81f38b924a8fa2c9"
+    ],
+    "sources": [
+      {
+        "source": "18.-QD-ban-hanh-Quy-dinh-Co-van-hoc-tap.signed.signed.signed.signed.signed.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "question": "Trong việc quản lý sinh viên, những công việc hành chính nào cần thực hiện?",
+    "question_raw": "Công tác hành chính trong quản lý sinh viên bao gồm những nhiệm vụ nào?",
+    "answer": "Tổ chức tiếp nhận thí sinh trúng tuyển vào học theo quy định của Bộ GD&ĐT, ĐHQG-HCM và của Trường ĐHQT; thống kê, tổng hợp dữ liệu và quản lý, lưu trữ hồ sơ liên quan đến SV; tổ chức làm thẻ SV và tích hợp các thẻ dịch vụ cho SV; phối hợp tổ chức lễ khai giảng, lễ tốt nghiệp cho SV; tổ chức các tuần SHCD ĐK, GK, CK cho SV; giải quyết các công việc hành chính có liên quan đến SV; phối hợp Phòng Đào tạo Đại học, Khoa, Bộ môn chỉ định Ban cán sự lớp (lớp trưởng, lớp phó) lâm thời; soạn thảo Kế hoạch năm học về CTSV, thực hiện các báo cáo định kỳ, đột xuất cho Ban Giám hiệu nhà trường, ĐHQG-HCM, Bộ GD&ĐT theo quy định.",
+    "type": "factoid",
+    "relevant_ids": [
+      "91229198e2d4dad5",
+      "39c7885eb419928b",
+      "cd31e64b0b5623f0"
+    ],
+    "sources": [
+      {
+        "source": "Quy-che-CTSV-theo-QD-967-12.2022-Signed-2.pdf",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "question": "Thời điểm nào sẽ đảm bảo sự an toàn và bảo mật trong công tác điều tra?",
+    "question_raw": "Giai đoạn nào đảm bảo an ninh và an toàn trong CSDT?",
+    "answer": "Giy rdi an ninh, tr'At tU an toan trong CSDT ho{c ngoii xd hQi.",
+    "type": "factoid",
+    "relevant_ids": [
+      "2536d5e2bea6db53"
+    ],
+    "sources": [
+      {
+        "source": "20.-2019-Quy-che-CTSV-DHQG-HCM.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "question": "Hội đồng khen thưởng sinh viên của Trường có cuộc họp thường xuyên vào tháng nào?",
+    "question_raw": "Hội đồng khen thưởng sinh viên cấp Trường họp định kỳ vào tháng nào?",
+    "answer": "Hội đồng khen thưởng sinh viên cấp Trường họp định kỳ mỗi năm một lần vào tháng 11.",
+    "type": "factoid",
+    "relevant_ids": [
+      "09c1f7078ff0ac24",
+      "604f0818fcd18e0e"
+    ],
+    "sources": [
+      {
+        "source": "5.-Quyet-dinh-ban-hanh-_-Quy-dinh-cong-tac-khen-thuong-sinh-vien-truong-DHQT-Signed-4.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "question": "Nếu một sinh viên tham gia biểu tình và bị kỷ luật, thì liệu họ có nguy cơ bị đuổi học giống như những sinh viên bị kỷ luật vì các hành vi như mại dâm hay trộm cắp không?",
+    "question_raw": "Nếu một sinh viên tham gia biểu tình và bị xử lý phạm vi vi phạm, liệu họ có thể bị buộc thôi học giống như những sinh viên vi phạm về hoạt động mại dâm hay lấy cắp tài sản không?",
+    "answer": "Có, nếu sinh viên tham gia biểu tình bị xử lý vi phạm, mức độ xử lý có thể từ cảnh cáo đến buộc thôi học tùy theo mức độ, tính chất của hành vi. Tương tự, những sinh viên vi phạm hoạt động mại dâm hoặc lấy cắp tài sản cũng có thể bị xử lý đến mức buộc thôi học nếu vi phạm nghiêm trọng. Trong cả hai trường hợp, nếu vi phạm nghiêm trọng, cơ quan chức năng sẽ can thiệp theo quy định của pháp luật.",
+    "type": "multi_hop",
+    "relevant_ids": [
+      "003e2a47ef1827e3",
+      "7729bb745a72c2ff"
+    ],
+    "sources": [
+      {
+        "source": "3.-Phu-luc-1-30122022-Signed-2.pdf",
+        "page": 4
+      },
+      {
+        "source": "3.-Phu-luc-1-30122022-Signed-2.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "question": "Làm thế nào để mình có thể đề xuất khen thưởng cho những người có thành tích nổi bật?",
+    "question_raw": "Cách để đề xuất khen thưởng cho các cá nhân có thành tích đặc biệt là gì?",
+    "answer": "Phòng Công tác Sinh viên trực tiếp đề xuất lên Hội đồng Khen thưởng Sinh viên cấp Trường.",
+    "type": "procedural",
+    "relevant_ids": [
+      "8a7495468614ae61",
+      "5997908309a81775"
+    ],
+    "sources": [
+      {
+        "source": "5.-Quyet-dinh-ban-hanh-_-Quy-dinh-cong-tac-khen-thuong-sinh-vien-truong-DHQT-Signed-4.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "question": "Các hoạt động nào sinh viên có thể tham gia theo những gì được nêu trong tài liệu này?",
+    "question_raw": "Sinh viên được tham gia những hoạt động gì theo quy định trong tài liệu này?",
+    "answer": "Duoc tham gia d6ng g6p j' ki€n, tharn gia quin lli vd gi6m siir hoat dQng girio duc",
+    "type": "factoid",
+    "relevant_ids": [
+      "6003569f4536c19a",
+      "fc12f43b787d8ef2",
+      "bff35f798a14a6a5"
+    ],
+    "sources": [
+      {
+        "source": "20.-2019-Quy-che-CTSV-DHQG-HCM.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "question": "Nếu mình không thể tham gia Hội nghị CTSV hay Hội nghị SV, mình nên làm gì?",
+    "question_raw": "Mình cần làm gì nếu vắng mặt ở Hội nghị CTSV hay Hội nghị SV?",
+    "answer": "Trường hợp vắng mặt phải có báo cáo lý do.",
+    "type": "procedural",
+    "relevant_ids": [
+      "2e369803232afaec",
+      "66c7c6d8bece0c66"
+    ],
+    "sources": [
+      {
+        "source": "18.-QD-ban-hanh-Quy-dinh-Co-van-hoc-tap.signed.signed.signed.signed.signed.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "question": "Ai là những người sử dụng lao động?",
+    "question_raw": "Người sử dụng lao động bao gồm những ai?",
+    "answer": "Người sử dụng lao động bao gồm cơ quan nhà nước, đơn vị sự nghiệp công lập, đơn vị vũ trang nhân dân, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, doanh.",
+    "type": "factoid",
+    "relevant_ids": [
+      "fd2098ec24edf996",
+      "354380946f2667f8"
+    ],
+    "sources": [
+      {
+        "source": "26.Luat-BHYT-2008.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "question": "Nếu có chuyện gì không đúng liên quan đến việc dùng thẻ bảo hiểm y tế, thì ai sẽ nhận được thông tin về việc đó?",
+    "question_raw": "Nếu có trường hợp vi phạm về sử dụng thẻ bảo hiểm y tế thì ai sẽ được thông báo?",
+    "answer": "Thông báo cho tổ chức bảo hiểm y tế những trường hợp vi phạm về sử dụng thẻ bảo hiểm y tế.",
+    "type": "conditional",
+    "relevant_ids": [
+      "0564b92bc9b3cedb",
+      "004a4d3b3e591bcf",
+      "4cc376e64f538094"
+    ],
+    "sources": [
+      {
+        "source": "26.Luat-BHYT-2008.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "question": "Nếu sinh viên bị đình chỉ học thì có được xem xét điểm rèn luyện không?",
+    "question_raw": "Sinh viên bị kỷ luật mức đình chỉ học tập có được đánh giá rèn luyện không?",
+    "answer": "Sinh viên bị kỷ luật mức đình chỉ học tập không được đánh giá rèn luyện trong thời gian bị đình chỉ.",
+    "type": "factoid",
+    "relevant_ids": [
+      "9c466271673d461b",
+      "4cf8e115040d4a4e",
+      "de318e1dab770d34"
+    ],
+    "sources": [
+      {
+        "source": "Quy-che-CTSV-theo-QD-967-12.2022-Signed-2.pdf",
+        "page": 20
+      }
+    ]
+  },
+  {
+    "question": "Khi phát hiện có người vi phạm quy định thi, giám sát viên cần làm gì?",
+    "question_raw": "Giám sát viên có nhiệm vụ gì khi phát hiện CBCT vi phạm quy chế thi?",
+    "answer": "Giám sát viên có nhiệm vụ kịp thời nhắc nhở CBCT và lập biên bản nếu các đối tượng trên vi phạm quy chế thi.",
+    "type": "factoid",
+    "relevant_ids": [
+      "bbff7b1788cae89d",
+      "7be7b9c17a3ce378",
+      "d93d2621998ca95a"
+    ],
+    "sources": [
+      {
+        "source": "17.-Quy-che_To-chuc-thi-HK_Tr-Tiep.ban-hanh_05.01.25-Signed-8.pdf",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "question": "Phòng Kế hoạch Tài chính có vai trò gì trong việc quản lý học phí?",
+    "question_raw": "Phòng Kế hoạch Tài chính có trách nhiệm gì liên quan đến học phí?",
+    "answer": "Có trách nhiệm giải quyết các vấn đề có liên quan đến học phí để xét điều kiện dự thi cho SV theo đúng thời hạn được quy định.",
+    "type": "factoid",
+    "relevant_ids": [
+      "1181b4722ade0bca",
+      "6b2ab53ceeec3e03"
+    ],
+    "sources": [
+      {
+        "source": "17.-Quy-che_To-chuc-thi-HK_Tr-Tiep.ban-hanh_05.01.25-Signed-8.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "question": "Nếu tôi có khuyết tật, thì tôi có thể nhận được sự giúp đỡ nào không?",
+    "question_raw": "Nếu tôi là sinh viên khuyết tật, tôi có được hỗ trợ gì không?",
+    "answer": "Quy định chính sách hỗ trợ người học khuyết tật tại Trường Đại học Quốc tế thuộc Đại học Quốc gia Thành phố Hồ Chí Minh.",
+    "type": "conditional",
+    "relevant_ids": [
+      "f967464303d0225c",
+      "7138069c0a461e60"
+    ],
+    "sources": [
+      {
+        "source": "13.-Quy-dinh-chinh-sach-ho-tro-nguoi-hoc-khuyet-tat.-Signed-4.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "question": "Trước khi tốt nghiệp, sinh viên cần làm những gì?",
+    "question_raw": "Sinh viên cần hoàn thành việc gì trước khi tốt nghiệp?",
+    "answer": "SV phải hoàn thành việc học tập Tuần SHCD trước khi tốt nghiệp.",
+    "type": "factoid",
+    "relevant_ids": [
+      "f21b942018fe3835",
+      "a0eea99a421fc14f",
+      "467dd68dd8d1b0cc"
+    ],
+    "sources": [
+      {
+        "source": "Quy-che-CTSV-theo-QD-967-12.2022-Signed-2.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "question": "Nếu bọn em không đồng ý với điểm thi, thì ai sẽ là người quyết định điểm cuối cùng?",
+    "question_raw": "Nếu sinh viên không thống nhất được điểm thi thì ai sẽ quyết định điểm cuối cùng?",
+    "answer": "Trưởng Khoa/ Bộ môn quyết định.",
+    "type": "conditional",
+    "relevant_ids": [
+      "2306d3219a82e3ec",
+      "56ae2cd670c715c3"
+    ],
+    "sources": [
+      {
+        "source": "17.-Quy-che_To-chuc-thi-HK_Tr-Tiep.ban-hanh_05.01.25-Signed-8.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "question": "Nếu tôi là sinh viên muốn biết về cách giảm học phí ở Đại học Quốc tế, tôi cần chuẩn bị những giấy tờ gì và phải đáp ứng điều kiện nào để có thể nhận được ưu đãi này?",
+    "question_raw": "Nếu tôi là sinh viên đang tìm hiểu về chính sách miễn giảm học phí tại Đại học Quốc tế, tôi cần những giấy tờ gì và điều kiện như thế nào để được hưởng quyền lợi này?",
+    "answer": "Để được hưởng chính sách miễn giảm học phí tại Đại học Quốc tế, sinh viên cần chuẩn bị mẫu đơn MGHP của nhà trường, bản photo công chứng giấy khai sinh và hộ khẩu thường trú tại địa phương. Điều kiện để được miễn giảm học phí là sinh viên cần thuộc đối tượng được quy định theo Nghị định số 74/2013/NĐ-CP, có thể là sinh viên có hoàn cảnh khó khăn hoặc thuộc các nhóm đối tượng khác theo quy định của nhà trường.",
+    "type": "multi_hop",
+    "relevant_ids": [
+      "a81ab09690fe6aa8",
+      "71534be960383e14"
+    ],
+    "sources": [
+      {
+        "source": "7.-TB.486-MGHP-04112014-thong-bao-P.CTSV_.pdf",
+        "page": 1
+      },
+      {
+        "source": "7.-TB.486-MGHP-04112014-thong-bao-P.CTSV_.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "question": "Làm sao để sắp xếp việc dạy và học sao cho sinh viên có thể tham gia tích cực hơn?",
+    "question_raw": "Cách tổ chức giảng dạy và học tập như thế nào để phát huy vai trò của sinh viên?",
+    "answer": "Tổ chức giảng dạy và học tập phải phát huy vai trò chủ động đồng thời đề cao trách nhiệm của sinh viên, tạo điều kiện và động lực để sinh viên nỗ lực học tập; giữ vững kỷ cương học đường, nâng cao chất lượng và hiệu quả đào tạo.",
+    "type": "procedural",
+    "relevant_ids": [
+      "b399ee532022a1ef"
+    ],
+    "sources": [
+      {
+        "source": "15.-QD-719-6.12.2021_Quy-che-Hoc-vu-DH-Quoc-te-2021.signed-1.signed.signed.signed.signed-2.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "question": "Mình cần phải đáp ứng những tiêu chí nào để có thể tham gia các hoạt động ngoại khóa?",
+    "question_raw": "Điều kiện để sinh viên được tham gia hoạt động ngoại khóa là gì?",
+    "answer": "sinh viên biiit y€u vd cdm thu c6i clgp trong r.u nhi6n, cuQc s6ng xd h6i vd trong nghQ thuit.",
+    "type": "factoid",
+    "relevant_ids": [
+      "ea02c663cdcd70bb",
+      "66ced44d9f899c83",
+      "5989464154f6004d"
+    ],
+    "sources": [
+      {
+        "source": "20.-2019-Quy-che-CTSV-DHQG-HCM.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "question": "Để được đánh giá cao trong các hoạt động ngoài học tập và có cơ hội nhận học bổng hay khen thưởng tại ĐHQG-HCM, sinh viên cần phải đáp ứng những tiêu chí gì?",
+    "question_raw": "Sinh viên cần đạt yêu cầu gì để được đánh giá tốt trong các hoạt động ngoài học tập và có ảnh hưởng đến việc xét học bổng hay khen thưởng tại ĐHQG-HCM?",
+    "answer": "Để được đánh giá tốt trong các hoạt động ngoài học tập và có ảnh hưởng đến việc xét học bổng hay khen thưởng tại ĐHQG-HCM, sinh viên phải tham gia các hoạt động như chính trị, xã hội, văn hóa, thể dục thể thao, và phòng chống tệ nạn xã hội. Đánh giá sẽ dựa trên hiệu quả tham gia các hoạt động này, và điểm số cho các hoạt động này có thể lên đến 20 điểm. Ngoài ra, sinh viên cũng cần được xếp loại học tập tốt theo quy định để đủ điều kiện xét duyệt học bổng.",
+    "type": "multi_hop",
+    "relevant_ids": [
+      "e5426f2fabd6253c",
+      "e15a5ae2dfe3cdbb"
+    ],
+    "sources": [
+      {
+        "source": "22.-2019-Quy-che-DGKQRL-DHQG-HCM.pdf",
+        "page": 7
+      },
+      {
+        "source": "22.-2019-Quy-che-DGKQRL-DHQG-HCM.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "question": "Những hành động nào sẽ không được bảo hiểm chi trả cho việc khám và điều trị bệnh?",
+    "question_raw": "Có những hành vi nào bị từ chối thanh toán chi phí khám bệnh, chữa bệnh bảo hiểm y tế?",
+    "answer": "Từ chối thanh toán chi phí khám bệnh, chữa bệnh bảo hiểm y tế không đúng quy định của Luật này hoặc không đúng với nội dung hợp đồng khám bệnh, chữa bệnh bảo hiểm y tế.",
+    "type": "factoid",
+    "relevant_ids": [
+      "583376f56ecb1929",
+      "6be8b595ab7a7ec7"
+    ],
+    "sources": [
+      {
+        "source": "26.Luat-BHYT-2008.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "question": "Ai có thể không phải học hoặc được giảm bớt một số môn trong chương trình học?",
+    "question_raw": "Ai có thể được miễn, giảm một số nội dung môn học trong chương trình giáo dục?",
+    "answer": "Người khuyết tật học tập theo phương thức giáo dục hòa nhập học theo chương trình giáo dục chung.",
+    "type": "factoid",
+    "relevant_ids": [
+      "791a6d06e68ed1a8",
+      "710c2f0150695f55",
+      "e73ca7e7bed0ae99"
+    ],
+    "sources": [
+      {
+        "source": "13.-Quy-dinh-chinh-sach-ho-tro-nguoi-hoc-khuyet-tat.-Signed-4.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "question": "Mỗi tháng, người thuộc nhóm ở khoản 20 và 21 phải đóng bao nhiêu phần trăm so với mức lương tối thiểu?",
+    "question_raw": "Mức đóng hằng tháng tối đa của đối tượng quy định tại khoản 20 và 21 là bao nhiêu phần trăm mức lương tối thiểu?",
+    "answer": "tối đa bằng 6% mức lương tối thiểu và do đối tượng đóng;",
+    "type": "factoid",
+    "relevant_ids": [
+      "8af02fdab2a0ca1f",
+      "e77e384a7676095c"
+    ],
+    "sources": [
+      {
+        "source": "26.Luat-BHYT-2008.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "question": "Mình muốn biết có những loại khen thưởng nào dành cho sinh viên và điều kiện gì để nhận được những khen thưởng đó ở ĐHQG-HCM?",
+    "question_raw": "Sinh viên có thể nhận được những hình thức khen thưởng nào và điều kiện để được khen thưởng đó là gì theo quy chế của ĐHQG-HCM?",
+    "answer": "Sinh viên có kết quả rèn luyện xuất sắc sẽ được xem xét để nhận các hình thức khen thưởng như Bằng khen Giám đốc ĐHQG-HCM theo quy định tại Quy chế Thi đua, khen thưởng. Để được khen thưởng, sinh viên phải có kết quả rèn luyện tốt và không bị xếp loại rèn luyện yếu trong hai học kỳ liên tiếp.",
+    "type": "multi_hop",
+    "relevant_ids": [
+      "0509c39b825cb61e",
+      "4f240be95dda96b3"
+    ],
+    "sources": [
+      {
+        "source": "22.-2019-Quy-che-DGKQRL-DHQG-HCM.pdf",
+        "page": 7
+      },
+      {
+        "source": "22.-2019-Quy-che-DGKQRL-DHQG-HCM.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "question": "Những nhóm dân tộc thiểu số nào đang sống ở những khu vực khó khăn về kinh tế và xã hội?",
+    "question_raw": "Ai là những người dân tộc thiểu số rất ít người ở vùng có điều kiện kinh tế - xã hội khó khăn?",
+    "answer": "La Hủ, La Ha, Pà Thẻn, Lô Lô, Nùng, Chứt, Lê Lô, Mông, Cống, Cờ Lao, Ê Đê, Si La, Pu Péo, Rơ Măm, Brau, Ô Đu.",
+    "type": "factoid",
+    "relevant_ids": [
+      "c2a876ffc0357bd8",
+      "22a8c1f9f9135efc"
+    ],
+    "sources": [
+      {
+        "source": "7.-TB.486-MGHP-04112014-thong-bao-P.CTSV_.pdf",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "question": "Người phụ trách coi thi sẽ làm những gì khi tổ chức kỳ thi trắc nghiệm trên máy tính?",
+    "question_raw": "Cán bộ coi thi sẽ thực hiện những bước nào khi tổ chức thi trắc nghiệm trên máy tính?",
+    "answer": "Cán bộ coi thi làm thủ tục cho sinh viên vào phòng thi, phổ biến quy chế thi; Cán bộ kỹ thuật hướng dẫn cho SV các thao tác căn bản làm bài thi trên máy vi tính và chắc chắn về sự ổn định kỹ thuật. Sau đó, khởi động đề thi cho SV; Sau khi làm bài xong, sinh viên phải ký tên vào danh sách nộp bài thi (02 danh sách). Cán bộ coi thi lưu trữ và quản lý bài thi của SV.",
+    "type": "procedural",
+    "relevant_ids": [
+      "2306d3219a82e3ec",
+      "56ae2cd670c715c3"
+    ],
+    "sources": [
+      {
+        "source": "17.-Quy-che_To-chuc-thi-HK_Tr-Tiep.ban-hanh_05.01.25-Signed-8.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "question": "Nếu quy định này bắt đầu áp dụng từ năm học 2022-2023, liệu có thể thay đổi nó sau đó không?",
+    "question_raw": "Nếu quy định này có hiệu lực từ năm học 2022-2023, thì nó có thể được sửa đổi không?",
+    "answer": "Trong trường hợp cần thiết, Hiệu trưởng có thể quyết định sửa đổi, bổ sung một số quy định cho phù hợp với tình hình thực tế.",
+    "type": "conditional",
+    "relevant_ids": [
+      "a00f274b7dcd1e9b",
+      "ae9de533749048ec"
+    ],
+    "sources": [
+      {
+        "source": "18.-QD-ban-hanh-Quy-dinh-Co-van-hoc-tap.signed.signed.signed.signed.signed.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "question": "Mình có thể tham gia vào các hoạt động liên quan đến chính trị trong trường bằng cách nào?",
+    "question_raw": "Cách tham gia các hoạt động mang tính chất chính trị trong trường như thế nào?",
+    "answer": "Tiy theo mrlc rlQ, tinh ch6t xri lj nr canh c6o d6n buOc th6i hpc.",
+    "type": "procedural",
+    "relevant_ids": [
+      "2536d5e2bea6db53"
+    ],
+    "sources": [
+      {
+        "source": "20.-2019-Quy-che-CTSV-DHQG-HCM.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "question": "Mình cần phải làm những gì để có thể tham gia thi học kỳ?",
+    "question_raw": "Sinh viên cần thực hiện những nghĩa vụ gì để được dự thi học kỳ?",
+    "answer": "Sinh viên được dự thi học kỳ khi đã thực hiện đầy đủ các nghĩa vụ: Học phí và lệ phí khác (nếu có); Có mặt tại phòng thi đúng lịch thi do nhà trường công bố; SV đến sau khi đã bốc đề thi quá 15 phút, sẽ không được dự thi; Số giờ lên lớp theo quy định (đối với thi cuối kỳ).",
+    "type": "factoid",
+    "relevant_ids": [
+      "9b29a73fe0b67ca7",
+      "cc10ab978b31abcc",
+      "32c442d2c6414eeb"
+    ],
+    "sources": [
+      {
+        "source": "17.-Quy-che_To-chuc-thi-HK_Tr-Tiep.ban-hanh_05.01.25-Signed-8.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "question": "Mình cần biết cách thức để xóa bỏ hồ sơ lưu trữ khi đã hết thời gian lưu giữ như thế nào?",
+    "question_raw": "Thủ tục để tiêu hủy hồ sơ lưu trữ sau khi hết thời gian lưu trữ là gì?",
+    "answer": "Phòng BĐCLGD&KT và các đơn vị liên quan báo cáo Hiệu trưởng duyệt và tiến hành tiêu hủy hồ sơ lưu trữ theo quy định hiện hành của Nhà nước.",
+    "type": "procedural",
+    "relevant_ids": [
+      "4666f92f3a6bd2d1"
+    ],
+    "sources": [
+      {
+        "source": "17.-Quy-che_To-chuc-thi-HK_Tr-Tiep.ban-hanh_05.01.25-Signed-8.pdf",
+        "page": 21
+      }
+    ]
+  },
+  {
+    "question": "Có những tiêu chí nào mà tổng điểm là 30 và liên quan đến việc tổ chức họp lớp không?",
+    "question_raw": "Tiêu chí đánh giá nào có tổng điểm là 30 và liên quan đến việc tổ chức họp lớp?",
+    "answer": "Tổ chức họp lớp có tổng điểm 30.",
+    "type": "factoid",
+    "relevant_ids": [
+      "2e369803232afaec",
+      "66c7c6d8bece0c66"
+    ],
+    "sources": [
+      {
+        "source": "18.-QD-ban-hanh-Quy-dinh-Co-van-hoc-tap.signed.signed.signed.signed.signed.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "question": "Mình cần làm gì để có thể nhận chứng chỉ ngoại ngữ?",
+    "question_raw": "Điều kiện để nhận chứng chỉ ngoại ngữ là gì?",
+    "answer": "Trong thời hạn hai (02) năm tính từ ngày cấp cho đơn người đăng ký xác nhận đạt chuẩn.",
+    "type": "factoid",
+    "relevant_ids": [
+      "319655d1e111ae9d"
+    ],
+    "sources": [
+      {
+        "source": "25.-QD1342_220930_QD-ban-hanh-Quy-che-dao-tao-trinh-odo-DH-upload.pdf",
+        "page": 43
+      }
+    ]
+  },
+  {
+    "question": "Các nhiệm vụ nào liên quan đến bảo hiểm y tế sẽ được gửi lên Chính phủ?",
+    "question_raw": "Có những nhiệm vụ nào liên quan đến bảo hiểm y tế được trình Chính phủ?",
+    "answer": "Xây dựng và trình Chính phủ các giải pháp nhằm bảo đảm cân đối quỹ bảo hiểm y tế; Tuyên truyền, phổ biến chính sách, pháp luật về bảo hiểm y tế; Chỉ đạo, hướng dẫn tổ chức triển khai thực hiện chế độ bảo hiểm y tế; Thanh tra, kiểm tra, xử lý vi phạm và giải quyết khiếu nại, tố cáo về bảo hiểm y tế; Theo dõi, đánh giá, tổng kết các hoạt động trong lĩnh vực bảo hiểm y tế; Tổ chức nghiên cứu khoa học và hợp tác quốc tế về bảo hiểm y tế.",
+    "type": "factoid",
+    "relevant_ids": [
+      "3c6514029ba06743",
+      "c7ef83554818f8a3",
+      "2820c552d52b73ca"
+    ],
+    "sources": [
+      {
+        "source": "26.Luat-BHYT-2008.pdf",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "question": "Ai là người quyết định chuẩn tiếng Anh đầu ra để mình có thể tốt nghiệp?",
+    "question_raw": "Chuẩn tiếng Anh đầu ra để được công nhận tốt nghiệp do ai quyết định?",
+    "answer": "do Hiệu trưởng quyết định theo đề xuất của Hội đồng Khoa học và Đào tạo",
+    "type": "factoid",
+    "relevant_ids": [
+      "dd0c96b3be65e198",
+      "9ea3864250903e72"
+    ],
+    "sources": [
+      {
+        "source": "15.-QD-719-6.12.2021_Quy-che-Hoc-vu-DH-Quoc-te-2021.signed-1.signed.signed.signed.signed-2.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "question": "Nếu sinh viên chậm nộp học phí thì có được thi không?",
+    "question_raw": "Nếu sinh viên không đóng học phí đúng hạn thì có được phép dự thi không?",
+    "answer": "Có trách nhiệm giải quyết các vấn đề có liên quan đến học phí để xét điều kiện dự thi cho SV theo đúng thời hạn được quy định.",
+    "type": "conditional",
+    "relevant_ids": [
+      "1181b4722ade0bca",
+      "6b2ab53ceeec3e03"
+    ],
+    "sources": [
+      {
+        "source": "17.-Quy-che_To-chuc-thi-HK_Tr-Tiep.ban-hanh_05.01.25-Signed-8.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "question": "Làm thế nào để hệ thống thông tin về việc làm và thực tập được xây dựng?",
+    "question_raw": "Hệ thống thông tin về việc làm và thực tập được thiết lập như thế nào?",
+    "answer": "Thiết lập hệ thống thông tin về việc làm, thực tập thông qua cổng thông tin giữa Trường với đơn vị sử dụng lao động.",
+    "type": "factoid",
+    "relevant_ids": [
+      "747fdfab3fdd02ce",
+      "c2d2496a82e0cb67",
+      "852ab4e26428cc30"
+    ],
+    "sources": [
+      {
+        "source": "Quy-che-CTSV-theo-QD-967-12.2022-Signed-2.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "question": "Trong một phòng thi, cách bố trí người coi thi nên được thực hiện ra sao?",
+    "question_raw": "Cán bộ coi thi cần được phân công như thế nào trong một phòng thi?",
+    "answer": "Một phòng thi có ít nhất 01 CBCT; Tùy theo số lượng SV của phòng thi, CBCT được bố trí theo tỉ lệ tối đa 30 SV/CBCT; Phòng BĐCLGD&KT phân công cán bộ giám sát; Đối với thi vấn đáp: mỗi bàn hỏi thi có thể do 1 hoặc nhiều giảng viên hỏi thi; Đối với thi trắc nghiệm trên máy tính: mỗi ca thi phải có nhân sự kỹ thuật trực; Tại mỗi ca thi, các đơn vị tổ chức thi phân công 01 cán bộ phụ trách tổ chức thi; Mỗi ca thi phải có giảng viên phụ trách giảng dạy học phần trực đề thi; Những trường hợp đặc biệt có sự phê duyệt của Hiệu Trưởng.",
+    "type": "procedural",
+    "relevant_ids": [
+      "5a779d581ed35007",
+      "59cfa397d45861d6"
+    ],
+    "sources": [
+      {
+        "source": "17.-Quy-che_To-chuc-thi-HK_Tr-Tiep.ban-hanh_05.01.25-Signed-8.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "question": "Năm học nào sẽ có mức học phí giảm?",
+    "question_raw": "Mức học phí giảm áp dụng cho năm học nào?",
+    "answer": "Mức học phí giảm áp dụng cho năm học 2014 - 2015.",
+    "type": "factoid",
+    "relevant_ids": [
+      "dba50b9523408dd9",
+      "a81ab09690fe6aa8",
+      "39cc6e11eb1dfc37"
+    ],
+    "sources": [
+      {
+        "source": "7.-TB.486-MGHP-04112014-thong-bao-P.CTSV_.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "question": "Sinh viên tham gia chương trình trao đổi có nhận được sự giúp đỡ từ bộ phận Đối ngoại và Phát triển Đại học không?",
+    "question_raw": "Nếu sinh viên tham gia chương trình trao đổi, thì họ có được hỗ trợ từ Ban Đối ngoại và Phát triển Đại học không?",
+    "answer": "Ban Đối ngoại và Phát triển ĐH chịu trách nhiệm chỉ trì các chương trình trao đổi sinh viên cấp DHQG-HCM với các trường đại học nước ngoài.",
+    "type": "conditional",
+    "relevant_ids": [
+      "9c22e36609e2a53a",
+      "69377f3a747dc6e6",
+      "072e4766993ef9c4"
+    ],
+    "sources": [
+      {
+        "source": "20.-2019-Quy-che-CTSV-DHQG-HCM.pdf",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "question": "Nếu có ai trong Ban cán sự lớp sử dụng chất gây nghiện trong giờ học, thì sẽ xử lý như thế nào và ai sẽ phụ trách tìm người khác thay thế?",
+    "question_raw": "Nếu một thành viên trong Ban cán sự lớp vi phạm quy chế về việc sử dụng chất kích thích trong giờ học, thì quy trình xử lý sẽ như thế nào và ai sẽ có trách nhiệm bầu người thay thế?",
+    "answer": "Nếu một thành viên trong Ban cán sự lớp vi phạm quy chế về việc sử dụng chất kích thích trong giờ học, họ có thể bị đánh giá và cho thôi nhiệm vụ bởi Cố vấn học tập và tập thể lớp. Sau đó, tập thể lớp sẽ tổ chức bầu thay thế, bổ sung Ban cán sự lớp và gửi danh sách đến Phòng Công tác Sinh viên để đề nghị công nhận Ban cán sự lớp mới.",
+    "type": "multi_hop",
+    "relevant_ids": [
+      "4b728fbb6874d357",
+      "5d5638637fa4c79f"
+    ],
+    "sources": [
+      {
+        "source": "3.-Phu-luc-1-30122022-Signed-2.pdf",
+        "page": 3
+      },
+      {
+        "source": "14.-Quy-dinh-doi-voi-Ban-can-su-lop-nam-2025-final-Signed-4.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "question": "Nếu sinh viên có chứng chỉ IELTS Indicator thì có được xem xét để tham gia vào quy trình nào không?",
+    "question_raw": "Nếu sinh viên có chứng chỉ IELTS Indicator thì có được xem xét quy trình gì không?",
+    "answer": "Cdn cri bing tham chillu quy rti5i m6t sii chung chi ngoai ngt tuong tluong bric 3/6 Khung ndng lgc ngo4i ngt 6 b{c dirng cho ViQt Nam, Thri trudng CSDT xem x6t quy tllnh chi rii5t vd van Uing, chung chi, chung nh{n ngo4i ngt d6 c6ng nhin dat chuAn dAu ra rrinh dO deo tao tl4i hgc.",
+    "type": "conditional",
+    "relevant_ids": [
+      "319655d1e111ae9d"
+    ],
+    "sources": [
+      {
+        "source": "25.-QD1342_220930_QD-ban-hanh-Quy-che-dao-tao-trinh-odo-DH-upload.pdf",
+        "page": 43
+      }
+    ]
+  },
+  {
+    "question": "Làm sao để đảm bảo sinh viên nhận được thông tin đầy đủ và chính xác?",
+    "question_raw": "Thủ tục để đảm bảo thông tin cho sinh viên được thực hiện như thế nào?",
+    "answer": "Trường CSDT, TTQLKTX, TTeL&PTKDT thực hiện việc thu thập thông tin, bảo có các công tác sinh viên theo định kỳ, và bổ sung các thông tin cần thiết theo yêu cầu của ĐHQG-HCM (qua Ban CTSV).",
+    "type": "procedural",
+    "relevant_ids": [
+      "5ca618925cabc6e0",
+      "77baa34f6a5ee1e4"
+    ],
+    "sources": [
+      {
+        "source": "20.-2019-Quy-che-CTSV-DHQG-HCM.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "question": "Hợp đồng khám và chữa bệnh từ bảo hiểm y tế có ý nghĩa gì?",
+    "question_raw": "Hợp đồng khám bệnh, chữa bệnh bảo hiểm y tế là gì?",
+    "answer": "Hợp đồng khám bệnh, chữa bệnh bảo hiểm y tế là văn bản thoả thuận giữa tổ chức bảo hiểm y tế với cơ sở khám bệnh, chữa bệnh về việc cung ứng dịch vụ và thanh toán chi phí khám bệnh, chữa bệnh bảo hiểm y tế.",
+    "type": "factoid",
+    "relevant_ids": [
+      "3155edbbd24ed530",
+      "fd36f1f842fdcaae"
+    ],
+    "sources": [
+      {
+        "source": "26.Luat-BHYT-2008.pdf",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "question": "Để đảm bảo chất lượng dịch vụ khám và chữa bệnh cho người có bảo hiểm y tế, mình cần làm gì?",
+    "question_raw": "Thủ tục nào cần thực hiện để đảm bảo chất lượng khám bệnh, chữa bệnh cho người tham gia bảo hiểm y tế?",
+    "answer": "Tổ chức khám bệnh, chữa bệnh bảo đảm chất lượng với thủ tục đơn giản, thuận tiện cho người tham gia bảo hiểm y tế.",
+    "type": "procedural",
+    "relevant_ids": [
+      "004a4d3b3e591bcf",
+      "cc42e74cd49b2a60",
+      "0564b92bc9b3cedb"
+    ],
+    "sources": [
+      {
+        "source": "26.Luat-BHYT-2008.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "question": "Công việc của người hướng dẫn học tập có ý nghĩa như thế nào?",
+    "question_raw": "Vai trò của công tác CVHT là gì?",
+    "answer": "Giữ vai trò cầu nối, thông tin truyền tải các phản hồi, thông báo, hoạt động của Nhà trường tới SV và gia đình.",
+    "type": "factoid",
+    "relevant_ids": [
+      "9e47e37793fbd52f",
+      "97e05348c664251f",
+      "961f58c1decf7353"
+    ],
+    "sources": [
+      {
+        "source": "18.-QD-ban-hanh-Quy-dinh-Co-van-hoc-tap.signed.signed.signed.signed.signed.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "question": "Quyết định của Trường Đại học Quốc tế có ngày tháng nào ghi trên đó?",
+    "question_raw": "Ngày nào được ghi trong quyết định của Trường Đại học Quốc tế?",
+    "answer": "Thành phố Hồ Chí Minh, ngày       tháng       năm 2024",
+    "type": "factoid",
+    "relevant_ids": [
+      "d8f41ce6d732d936",
+      "209ca64817bca049"
+    ],
+    "sources": [
+      {
+        "source": "5.-Quyet-dinh-ban-hanh-_-Quy-dinh-cong-tac-khen-thuong-sinh-vien-truong-DHQT-Signed-4.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "question": "Nếu sinh viên bị nghỉ học thì có được nhận tiền hỗ trợ học phí không?",
+    "question_raw": "Sinh viên bị đình chỉ học tập có được nhận kinh phí hỗ trợ chi phí học tập không?",
+    "answer": "Sinh viên bị đình chỉ học tập (có thời hạn) thì không được nhận kinh phí hỗ trợ chi phí học tập trong thời gian bị đình chỉ.",
+    "type": "factoid",
+    "relevant_ids": [
+      "fc2d5acba79759bc",
+      "6aa5ee10ac12faa7"
+    ],
+    "sources": [
+      {
+        "source": "9.-QD688-MGHP-2024.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "question": "Ai sẽ xem xét và phê duyệt báo cáo tiêu hủy các hồ sơ đã hết thời gian lưu trữ?",
+    "question_raw": "Ai sẽ duyệt báo cáo tiêu hủy hồ sơ lưu trữ hết thời gian lưu trữ?",
+    "answer": "Hiệu trưởng duyệt và tiến hành tiêu hủy hồ sơ lưu trữ theo quy định hiện hành của Nhà nước.",
+    "type": "factoid",
+    "relevant_ids": [
+      "4666f92f3a6bd2d1"
+    ],
+    "sources": [
+      {
+        "source": "17.-Quy-che_To-chuc-thi-HK_Tr-Tiep.ban-hanh_05.01.25-Signed-8.pdf",
+        "page": 21
+      }
+    ]
+  },
+  {
+    "question": "Mình cần thực hiện những bước gì để có thể nhận được bằng tốt nghiệp?",
+    "question_raw": "Sinh viên cần làm gì để được nhận bằng tốt nghiệp?",
+    "answer": "SV phải hoàn thành việc học tập Tuần SHCD trước khi tốt nghiệp.",
+    "type": "procedural",
+    "relevant_ids": [
+      "f21b942018fe3835",
+      "a0eea99a421fc14f",
+      "467dd68dd8d1b0cc"
+    ],
+    "sources": [
+      {
+        "source": "Quy-che-CTSV-theo-QD-967-12.2022-Signed-2.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "question": "Thời gian để bộ phận tiếp nhận và xử lý phản hồi của sinh viên là bao nhiêu lâu?",
+    "question_raw": "Thời gian P.ĐTĐH giải quyết thắc mắc của sinh viên là bao lâu?",
+    "answer": "P.ĐTĐH nhận và giải quyết thắc mắc của sinh viên trong vòng 15 ngày làm việc kể từ ngày công bố.",
+    "type": "factoid",
+    "relevant_ids": [
+      "016f86d4e5ef0c72",
+      "a099681fdb0472ae",
+      "e8916bff98aee2eb"
+    ],
+    "sources": [
+      {
+        "source": "16.-Quy-dinh-xet-cap-hoc-bong-tai-Truong-DHQT-Signed-4.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "question": "Làm thế nào để xin và nhận hỗ trợ tài chính cho các Quỹ học bổng từ các công ty?",
+    "question_raw": "Cách để vận động và tiếp nhận các nguồn tài trợ cho các Quỹ học bổng từ doanh nghiệp là gì?",
+    "answer": "Vận động và tiếp nhận các nguồn tài trợ cho các Quỹ học bổng, các sự kiện, các hoạt động của SV từ doanh nghiệp, tổ chức và cá nhân hợp tác với Trường.",
+    "type": "procedural",
+    "relevant_ids": [
+      "c2d2496a82e0cb67",
+      "747fdfab3fdd02ce"
+    ],
+    "sources": [
+      {
+        "source": "Quy-che-CTSV-theo-QD-967-12.2022-Signed-2.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "question": "Mình cần làm gì để ghi lại kết quả rèn luyện trong học kỳ?",
+    "question_raw": "Cách thức để ghi nhận kết quả rèn luyện học kỳ như thế nào?",
+    "answer": "Kết quả tỉ lệ rèn luyện từng học kỳ, năm học và toàn khóa học của sinh viên được lưu trong hồ sơ quản lý sinh viên của cơ sở đào tạo.",
+    "type": "procedural",
+    "relevant_ids": [
+      "9353e6c1c3919a02",
+      "9218a0f305ac157d",
+      "e5426f2fabd6253c"
+    ],
+    "sources": [
+      {
+        "source": "22.-2019-Quy-che-DGKQRL-DHQG-HCM.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "question": "Có những nguyên tắc gì liên quan đến việc tổ chức dạy và học được nêu trong quy định?",
+    "question_raw": "Nguyên tắc nào về tổ chức giảng dạy và học tập được đề cập trong quy chế?",
+    "answer": "Phát huy năng lực chuyên môn và trách nhiệm nghề nghiệp của đội ngũ giảng viên, phù hợp với quy định về chế độ làm việc của giảng viên; Phát huy vai trò chủ động đồng thời đề cao trách nhiệm của sinh viên, tạo điều kiện và động lực để sinh viên nỗ lực học tập; giữ vững kỷ cương học đường, nâng cao chất lượng và hiệu quả đào tạo;",
+    "type": "factoid",
+    "relevant_ids": [
+      "b399ee532022a1ef"
+    ],
+    "sources": [
+      {
+        "source": "15.-QD-719-6.12.2021_Quy-che-Hoc-vu-DH-Quoc-te-2021.signed-1.signed.signed.signed.signed-2.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "question": "Mình cần bầu bao nhiêu người để chọn lớp trưởng?",
+    "question_raw": "Số lượng cần bầu kiện toàn Lớp trưởng là bao nhiêu?",
+    "answer": "… nhân sự",
+    "type": "factoid",
+    "relevant_ids": [
+      "d1e4da2ab82a8aec",
+      "4d55379a6935a9a8"
+    ],
+    "sources": [
+      {
+        "source": "14.-Quy-dinh-doi-voi-Ban-can-su-lop-nam-2025-final-Signed-4.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "question": "Nếu em đến từ khu vực khó khăn về kinh tế xã hội thì có được giúp đỡ gì không?",
+    "question_raw": "Nếu sinh viên đến từ vùng có điều kiện kinh tế - xã hội khó khăn thì có được hỗ trợ gì không?",
+    "answer": "Sinh viên đến từ vùng có điều kiện kinh tế - xã hội khó khăn sẽ được hỗ trợ theo quy định tại các văn bản dưới đây.",
+    "type": "conditional",
+    "relevant_ids": [
+      "c2a876ffc0357bd8",
+      "22a8c1f9f9135efc"
+    ],
+    "sources": [
+      {
+        "source": "7.-TB.486-MGHP-04112014-thong-bao-P.CTSV_.pdf",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "question": "Thời gian để nộp đơn yêu cầu thanh toán từ người tham gia bảo hiểm y tế là bao nhiêu?",
+    "question_raw": "Thời hạn để nhận hồ sơ đề nghị thanh toán của người tham gia bảo hiểm y tế là bao lâu?",
+    "answer": "Trong thời hạn 40 ngày, kể từ ngày nhận đủ hồ sơ đề nghị thanh toán của người tham gia bảo hiểm y tế.",
+    "type": "procedural",
+    "relevant_ids": [
+      "598e330e8034523a",
+      "26291122bc5ffe11",
+      "6be13d63fe4fff22"
+    ],
+    "sources": [
+      {
+        "source": "26.Luat-BHYT-2008.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "question": "Làm thế nào để sinh viên có thể lấy thẻ sinh viên?",
+    "question_raw": "Cách để sinh viên có thể nhận thẻ sinh viên là gì?",
+    "answer": "Tổ chức làm thẻ SV và tích hợp các thẻ dịch vụ cho SV.",
+    "type": "procedural",
+    "relevant_ids": [
+      "91229198e2d4dad5",
+      "39c7885eb419928b",
+      "cd31e64b0b5623f0"
+    ],
+    "sources": [
+      {
+        "source": "Quy-che-CTSV-theo-QD-967-12.2022-Signed-2.pdf",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "question": "Mình có thể tìm thấy kết quả rèn luyện tính giỏi của sinh viên ở đâu?",
+    "question_raw": "Kết quả tính giỏi rèn luyện của sinh viên được lưu ở đâu?",
+    "answer": "Kết quả tính giỏi rèn luyện của sinh viên được lưu trong hồ sơ quản lý sinh viên của cơ sở đào tạo.",
+    "type": "factoid",
+    "relevant_ids": [
+      "9353e6c1c3919a02",
+      "9218a0f305ac157d",
+      "e5426f2fabd6253c"
+    ],
+    "sources": [
+      {
+        "source": "22.-2019-Quy-che-DGKQRL-DHQG-HCM.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "question": "Ai là người phụ trách công việc liên quan đến tư tưởng và chính trị của sinh viên trong ĐHQG-HCM?",
+    "question_raw": "Ban nào chịu trách nhiệm thực hiện công tác chính trị tư tưởng sinh viên trong ĐHQG-HCM?",
+    "answer": "Ban CTSV chịu trách nhiệm thực hiện công tác chính trị tư tưởng sinh viên trong ĐHQG-HCM.",
+    "type": "factoid",
+    "relevant_ids": [
+      "9c22e36609e2a53a",
+      "69377f3a747dc6e6",
+      "072e4766993ef9c4"
+    ],
+    "sources": [
+      {
+        "source": "20.-2019-Quy-che-CTSV-DHQG-HCM.pdf",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "question": "Nếu mình muốn nhận hỗ trợ từ chương trình 135 thì cần chuẩn bị giấy tờ gì và có điều gì cần chú ý không?",
+    "question_raw": "Nếu sinh viên muốn được hỗ trợ từ chương trình 135, họ cần chuẩn bị những giấy tờ gì và có những quy định nào cần lưu ý không?",
+    "answer": "Sinh viên muốn được hỗ trợ từ chương trình 135 cần chuẩn bị các giấy tờ như: mẫu đơn MGF{P từ nhà trường, bản photo công chứng giấy chứng tử của cha mẹ, giấy khai sinh của sinh viên, và giấy xác nhận của UBND cấp xã cho đối tượng học sinh. Ngoài ra, cần lưu ý rằng sinh viên có cha mẹ là hộ nghèo cũng phải chuẩn bị giấy xác nhận của chính quyền địa phương. Các quy định liên quan đến chính sách hỗ trợ này được nêu trong các quyết định của Thủ tướng Chính phủ và Bộ trưởng, như Quyết định số 69/2008/QĐ-TTg và Quyết định số 1105/QĐ-TTg.",
+    "type": "multi_hop",
+    "relevant_ids": [
+      "22a8c1f9f9135efc",
+      "5df85cd0a72c553c"
+    ],
+    "sources": [
+      {
+        "source": "7.-TB.486-MGHP-04112014-thong-bao-P.CTSV_.pdf",
+        "page": 3
+      },
+      {
+        "source": "7.-TB.486-MGHP-04112014-thong-bao-P.CTSV_.pdf",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "question": "Lớp trưởng có trách nhiệm gì và ai có thể đăng ký tham gia vào Ban cán sự lớp?",
+    "question_raw": "Các nhiệm vụ của Lớp trưởng là gì và ai có quyền ứng cử vào Ban cán sự lớp?",
+    "answer": "Lớp trưởng phụ trách các vấn đề liên quan đến lớp, nắm rõ sĩ số và thông tin liên hệ của các thành viên, truyền đạt thông tin từ Cố vấn học tập và tham gia các cuộc họp do Khoa/Bộ môn tổ chức. Mọi sinh viên đủ tiêu chuẩn đều có quyền ứng cử và đề cử vào Ban cán sự lớp.",
+    "type": "multi_hop",
+    "relevant_ids": [
+      "e59a68676ac81319",
+      "59e9b095a9edca21"
+    ],
+    "sources": [
+      {
+        "source": "14.-Quy-dinh-doi-voi-Ban-can-su-lop-nam-2025-final-Signed-4.pdf",
+        "page": 5
+      },
+      {
+        "source": "14.-Quy-dinh-doi-voi-Ban-can-su-lop-nam-2025-final-Signed-4.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "question": "Lớp trưởng ở Trường Đại học Quốc tế của Đại học Quốc gia TP.HCM có những trách nhiệm gì và thông tin này được ghi trong tài liệu nào?",
+    "question_raw": "Nhiệm vụ của Lớp trưởng tại Trường Đại học Quốc tế thuộc Đại học Quốc gia Thành phố Hồ Chí Minh là gì và quy định này được ban hành trong văn bản nào?",
+    "answer": "Nhiệm vụ của Lớp trưởng bao gồm phụ trách chung các vấn đề liên quan đến lớp, nắm rõ sĩ số và thông tin liên hệ của các thành viên, truyền đạt thông tin từ Cố vấn học tập và Khoa/Bộ môn, phản ánh ý kiến từ lớp đến các cấp quản lý, đại diện lớp tham gia các cuộc họp, triệu tập và chủ trì các cuộc họp lớp, và thực hiện các nhiệm vụ khác do Khoa/Bộ môn và Nhà trường giao. Quy định này được ban hành theo Quyết định về việc ban hành Quy định đối với Ban cán sự Lớp tại Trường Đại học Quốc tế thuộc Đại học Quốc gia Thành phố Hồ Chí Minh.",
+    "type": "multi_hop",
+    "relevant_ids": [
+      "e59a68676ac81319",
+      "148a25ad1e65d49c"
+    ],
+    "sources": [
+      {
+        "source": "14.-Quy-dinh-doi-voi-Ban-can-su-lop-nam-2025-final-Signed-4.pdf",
+        "page": 5
+      },
+      {
+        "source": "14.-Quy-dinh-doi-voi-Ban-can-su-lop-nam-2025-final-Signed-4.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "question": "Ai sẽ là người báo cho bên bảo hiểm y tế biết khi có trường hợp sử dụng thẻ bảo hiểm y tế không đúng cách?",
+    "question_raw": "Ai sẽ thông báo cho tổ chức bảo hiểm y tế về các trường hợp vi phạm sử dụng thẻ bảo hiểm y tế?",
+    "answer": "Kiểm tra, phát hiện và thông báo cho tổ chức bảo hiểm y tế những trường hợp vi phạm về sử dụng thẻ bảo hiểm y tế;",
+    "type": "factoid",
+    "relevant_ids": [
+      "0564b92bc9b3cedb",
+      "004a4d3b3e591bcf",
+      "4cc376e64f538094"
+    ],
+    "sources": [
+      {
+        "source": "26.Luat-BHYT-2008.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "question": "Quy định này bắt đầu áp dụng từ năm nào?",
+    "question_raw": "Quy định này có hiệu lực từ năm nào?",
+    "answer": "Quy định này áp dụng từ năm học 2022 – 2023 và có hiệu lực kể từ ngày ký.",
+    "type": "factoid",
+    "relevant_ids": [
+      "a00f274b7dcd1e9b",
+      "ae9de533749048ec"
+    ],
+    "sources": [
+      {
+        "source": "18.-QD-ban-hanh-Quy-dinh-Co-van-hoc-tap.signed.signed.signed.signed.signed.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "question": "Sinh viên có thể tìm thông tin về thời gian phải nộp học phí và các loại phí khác ở đâu?",
+    "question_raw": "Làm thế nào để sinh viên biết thời hạn đóng học phí và lệ phí?",
+    "answer": "Phòng Kế hoạch Tài chính ra thông báo về thời hạn đóng và thu học phí, lệ phí.",
+    "type": "procedural",
+    "relevant_ids": [
+      "1181b4722ade0bca",
+      "6b2ab53ceeec3e03"
+    ],
+    "sources": [
+      {
+        "source": "17.-Quy-che_To-chuc-thi-HK_Tr-Tiep.ban-hanh_05.01.25-Signed-8.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "question": "Nếu người thuộc điều 20 và 21 có mức sống trung bình thì họ sẽ phải đóng bao nhiêu tiền mỗi tháng?",
+    "question_raw": "Nếu đối tượng quy định tại khoản 20 và khoản 21 có mức sống trung bình thì mức đóng hằng tháng của họ là bao nhiêu?",
+    "answer": "mức đóng hằng tháng tối đa bằng 6% mức lương tối thiểu và do đối tượng đóng;",
+    "type": "conditional",
+    "relevant_ids": [
+      "8af02fdab2a0ca1f",
+      "e77e384a7676095c"
+    ],
+    "sources": [
+      {
+        "source": "26.Luat-BHYT-2008.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "question": "Mình phải làm gì để tuân theo các quy định liên quan đến công tác sinh viên trong quyết định này?",
+    "question_raw": "Mình cần làm gì để thực hiện quy định về công tác sinh viên theo quyết định này?",
+    "answer": "C6c 6ng (BA) Ch6nh Vdn phdng, Trudng c6c Ban chftc ndng' HiQu trudng c6c truong d4i hgc thinh viOn, Trudng Khoa Y, Girim d6c Phdn hi€u DHQG-HCM tai Tinh B6n Tre, c6c trung tdm tryc thu0c DHQG-HCM chiu tr6ch nhiQm thi hdnh Quy€t dinh niv.t.",
+    "type": "procedural",
+    "relevant_ids": [
+      "c1b404e2a2375c1a",
+      "20a5510a65f614cb"
+    ],
+    "sources": [
+      {
+        "source": "20.-2019-Quy-che-CTSV-DHQG-HCM.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "question": "Sinh viên tham gia Ban hỗ trợ sinh viên có được những quyền lợi gì không?",
+    "question_raw": "Nếu sinh viên tham gia vào Ban hdnh kdm thì họ có được hưởng quyền lợi gì không?",
+    "answer": "Quy ch0 ndy thav th€ Quy chti c6ng t6c hgc sinh-sinh vi€n dugc ban hirnh kdm theo Quy6t dinh s6 786/DHQG-CTSV ngay 24/8/2011 cta Giiim <ltic DHQG-HCM'",
+    "type": "conditional",
+    "relevant_ids": [
+      "c1b404e2a2375c1a",
+      "20a5510a65f614cb"
+    ],
+    "sources": [
+      {
+        "source": "20.-2019-Quy-che-CTSV-DHQG-HCM.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "question": "Nếu sinh viên học theo chương trình đã được quy định thì có được phép nghỉ học không?",
+    "question_raw": "Nếu sinh viên tham gia học tập theo chương trình quy định thì có được nghỉ học theo quy định không?",
+    "answer": "duoc nghi hd, nghi ti5t, nghi 16 theo quy dinh.",
+    "type": "conditional",
+    "relevant_ids": [
+      "6003569f4536c19a",
+      "fc12f43b787d8ef2",
+      "bff35f798a14a6a5"
+    ],
+    "sources": [
+      {
+        "source": "20.-2019-Quy-che-CTSV-DHQG-HCM.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "question": "Khi nào thì tôi nhận được tiền thanh toán nếu tôi gửi hồ sơ yêu cầu bồi thường bảo hiểm y tế?",
+    "question_raw": "Nếu tôi nộp hồ sơ đề nghị thanh toán bảo hiểm y tế, thì tôi có được thanh toán trong vòng bao lâu không?",
+    "answer": "Trong thời hạn 40 ngày, kể từ ngày nhận đủ hồ sơ đề nghị thanh toán.",
+    "type": "conditional",
+    "relevant_ids": [
+      "598e330e8034523a",
+      "26291122bc5ffe11",
+      "6be13d63fe4fff22"
+    ],
+    "sources": [
+      {
+        "source": "26.Luat-BHYT-2008.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "question": "Thầy cô có thể nhận hỗ trợ kiểm tra điểm trong lớp trong thời gian tối đa là bao lâu?",
+    "question_raw": "Thời gian CBGD tiếp nhận hỗ trợ kiểm tra điểm trong lớp tối đa là bao lâu?",
+    "answer": "Thời gian CBGD tiếp nhận hỗ trợ tối đa trong vòng 01 tuần kể từ ngày công bố kết quả.",
+    "type": "factoid",
+    "relevant_ids": [
+      "d66be422b09830f8",
+      "62a53b93ea20b5a5",
+      "87f4731377ff8664"
+    ],
+    "sources": [
+      {
+        "source": "15.-QD-719-6.12.2021_Quy-che-Hoc-vu-DH-Quoc-te-2021.signed-1.signed.signed.signed.signed-2.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "question": "Trường có kế hoạch gì để giúp đỡ những sinh viên học giỏi không?",
+    "question_raw": "Trường sẽ làm gì để hỗ trợ sinh viên xuất sắc?",
+    "answer": "Tìm kiếm và hỗ trợ những SV xuất sắc, thiết kế chương trình xây dựng đội ngũ SV tài năng khẳng định thương hiệu Trường trong xã hội.",
+    "type": "factoid",
+    "relevant_ids": [
+      "c2d2496a82e0cb67",
+      "747fdfab3fdd02ce"
+    ],
+    "sources": [
+      {
+        "source": "Quy-che-CTSV-theo-QD-967-12.2022-Signed-2.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "question": "Có bao nhiêu bạn có thể thi trong một phòng thi trắc nghiệm trên máy tính cùng một lúc?",
+    "question_raw": "Số lượng sinh viên tối đa trong phòng thi trắc nghiệm trên máy tính là bao nhiêu?",
+    "answer": "tối đa theo số lượng máy tính tại các phòng Lab;",
+    "type": "factoid",
+    "relevant_ids": [
+      "2306d3219a82e3ec",
+      "56ae2cd670c715c3"
+    ],
+    "sources": [
+      {
+        "source": "17.-Quy-che_To-chuc-thi-HK_Tr-Tiep.ban-hanh_05.01.25-Signed-8.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "question": "Công tác Cố vấn học tập ở Trường Đại học Quốc tế bắt đầu áp dụng từ năm học nào?",
+    "question_raw": "Quy định công tác Cố vấn học tập tại Trường Đại học Quốc tế có hiệu lực từ năm học nào?",
+    "answer": "Quy định này áp dụng từ năm học 2022 – 2023 và có hiệu lực kể từ ngày ký.",
+    "type": "factoid",
+    "relevant_ids": [
+      "90877b400a304100",
+      "8f978ef5e84ebf99"
+    ],
+    "sources": [
+      {
+        "source": "18.-QD-ban-hanh-Quy-dinh-Co-van-hoc-tap.signed.signed.signed.signed.signed.pdf",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "question": "Phòng Công tác Sinh viên có nhiệm vụ gì trong việc trao giải thưởng cho sinh viên?",
+    "question_raw": "Phòng Công tác Sinh viên có trách nhiệm gì trong việc khen thưởng sinh viên?",
+    "answer": "Phòng Công tác Sinh viên chịu trách nhiệm tổng hợp và đề xuất danh sách đề cử khen thưởng để Hội đồng Khen thưởng Sinh viên cấp Trường xem xét.",
+    "type": "factoid",
+    "relevant_ids": [
+      "8a7495468614ae61",
+      "5997908309a81775"
+    ],
+    "sources": [
+      {
+        "source": "5.-Quyet-dinh-ban-hanh-_-Quy-dinh-cong-tac-khen-thuong-sinh-vien-truong-DHQT-Signed-4.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "question": "Ai là người chịu trách nhiệm ký quyết định thành lập Hội đồng xét duyệt học bổng khuyến khích học tập?",
+    "question_raw": "Ai là người ký Quyết định thành lập Hội đồng xét cấp học bổng khuyến khích học tập?",
+    "answer": "Hội đồng xét cấp HBKKHT do Hiệu trưởng hoặc Phó Hiệu trưởng được Hiệu trưởng ủy quyền ký Quyết định thành lập.",
+    "type": "factoid",
+    "relevant_ids": [
+      "3d19882fc6a6943a",
+      "6ec13416efc7f086",
+      "3d4434cfe53d1fac"
+    ],
+    "sources": [
+      {
+        "source": "16.-Quy-dinh-xet-cap-hoc-bong-tai-Truong-DHQT-Signed-4.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "question": "Mình nên báo cho bên bảo hiểm y tế về việc sử dụng thẻ không đúng cách ra sao?",
+    "question_raw": "Cách thông báo cho tổ chức bảo hiểm y tế về vi phạm sử dụng thẻ bảo hiểm y tế như thế nào?",
+    "answer": "Kiểm tra, phát hiện và thông báo cho tổ chức bảo hiểm y tế những trường hợp vi phạm về sử dụng thẻ bảo hiểm y tế.",
+    "type": "procedural",
+    "relevant_ids": [
+      "0564b92bc9b3cedb",
+      "004a4d3b3e591bcf",
+      "4cc376e64f538094"
+    ],
+    "sources": [
+      {
+        "source": "26.Luat-BHYT-2008.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "question": "Hội đồng Trường Đại học Quốc tế đã ra quyết định gì vào ngày 16 tháng 5 năm 2022?",
+    "question_raw": "Nghị quyết nào đã được ban hành vào ngày 16 tháng 5 năm 2022 của Hội đồng Trường Đại học Quốc tế?",
+    "answer": "Nghị quyết số 18/NQ-HĐT",
+    "type": "factoid",
+    "relevant_ids": [
+      "650389c24113ddb7",
+      "035c7182a78cbbdc"
+    ],
+    "sources": [
+      {
+        "source": "18.-QD-ban-hanh-Quy-dinh-Co-van-hoc-tap.signed.signed.signed.signed.signed.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "question": "Ban xét duyệt học bổng khuyến khích học tập được hình thành ra sao?",
+    "question_raw": "Hội đồng xét cấp học bổng khuyến khích học tập được thành lập như thế nào?",
+    "answer": "Nhà trường ban hành Quyết định thành lập Hội đồng xét cấp HBKKHT và chấm dứt hoạt động khi Hiệu trưởng ban hành Quyết định công nhận kết quả HBKKHT.",
+    "type": "procedural",
+    "relevant_ids": [
+      "3d19882fc6a6943a",
+      "6ec13416efc7f086",
+      "3d4434cfe53d1fac"
+    ],
+    "sources": [
+      {
+        "source": "16.-Quy-dinh-xet-cap-hoc-bong-tai-Truong-DHQT-Signed-4.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "question": "Bệnh viện và phòng khám cần làm gì liên quan đến bảo hiểm y tế?",
+    "question_raw": "Cơ sở khám bệnh, chữa bệnh có trách nhiệm gì trong việc bảo hiểm y tế?",
+    "answer": "Tổ chức khám bệnh, chữa bệnh bảo đảm chất lượng với thủ tục đơn giản, thuận tiện cho người tham gia bảo hiểm y tế.",
+    "type": "factoid",
+    "relevant_ids": [
+      "004a4d3b3e591bcf",
+      "cc42e74cd49b2a60",
+      "0564b92bc9b3cedb"
+    ],
+    "sources": [
+      {
+        "source": "26.Luat-BHYT-2008.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "question": "Học bổng học tập sẽ được xem xét và phát vào tháng nào cho học kỳ II?",
+    "question_raw": "Học bổng học tập được xét và cấp vào tháng nào cho học kỳ II?",
+    "answer": "Tháng 6 xét học bổng cho học kỳ II",
+    "type": "factoid",
+    "relevant_ids": [
+      "e24909161940d695",
+      "21d1bdd8e50b4ba4"
+    ],
+    "sources": [
+      {
+        "source": "16.-Quy-dinh-xet-cap-hoc-bong-tai-Truong-DHQT-Signed-4.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "question": "Giảng viên chấm thi vi phạm quy định sẽ bị phạt những lỗi gì?",
+    "question_raw": "Các lỗi nào bị xử lý kỷ luật đối với giảng viên chấm thi vi phạm quy định?",
+    "answer": "Trả bài thi không đúng thời hạn quy định làm ảnh hưởng đến công tác khác đến 03 lần trong một năm học; Chấm bài thi bằng bút chì, chấm thi hoặc cộng điểm bài thi có sai sót đến 5 lần trong một năm học; Gian lận trong chấm thi, nhập điểm đã được người có trách nhiệm nhắc nhở; Có đến 02 lần cho điểm thi không đúng: tăng hoặc hạ điểm của bài thi so với đáp án mà không có căn cứ; Tùy tiện sửa điểm trên bài thi, trong bảng điểm.",
+    "type": "factoid",
+    "relevant_ids": [
+      "35983e912ed02bbe",
+      "bf4fbf8894862bcc",
+      "d805958b35201790"
+    ],
+    "sources": [
+      {
+        "source": "17.-Quy-che_To-chuc-thi-HK_Tr-Tiep.ban-hanh_05.01.25-Signed-8.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "question": "Quyết định nào đã được đưa ra để áp dụng quy định về cấp học bổng khuyến khích học tập cho sinh viên Đại học ở Trường Đại học Quốc tế?",
+    "question_raw": "Quyết định nào đã ban hành Quy định xét cấp học bổng khuyến khích học tập cho sinh viên trình độ Đại học tại Trường Đại học Quốc tế?",
+    "answer": "Quyết định số 260/2003/QĐ-TTg ngày 05 tháng 12 năm 2003 của Thủ tướng Chính phủ về việc thành lập trường Đại học Quốc tế thuộc Đại học Quốc gia Thành phố Hồ Chí Minh.",
+    "type": "factoid",
+    "relevant_ids": [
+      "47a3ecc8f6c4d975",
+      "803db197e4ca5f90"
+    ],
+    "sources": [
+      {
+        "source": "16.-Quy-dinh-xet-cap-hoc-bong-tai-Truong-DHQT-Signed-4.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "question": "Mình cần làm gì để thực hiện quy định này?",
+    "question_raw": "Cần phải làm gì để áp dụng quy định này?",
+    "answer": "Quy định này áp dụng từ năm học 2022 – 2023 và có hiệu lực kể từ ngày ký.",
+    "type": "procedural",
+    "relevant_ids": [
+      "a00f274b7dcd1e9b",
+      "ae9de533749048ec"
+    ],
+    "sources": [
+      {
+        "source": "18.-QD-ban-hanh-Quy-dinh-Co-van-hoc-tap.signed.signed.signed.signed.signed.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "question": "Nếu một sinh viên làm sai quy định thì sẽ bị xử lý như thế nào?",
+    "question_raw": "Nếu sinh viên vi phạm quy chế thì sẽ có hình thức xử lý nào không?",
+    "answer": "Hình thức xử lý có thể là kỷ luật sinh viên bao gồm các hình thức như khiển trách, cảnh cáo, buộc thôi học.",
+    "type": "conditional",
+    "relevant_ids": [
+      "1ba49e5b7535f9aa",
+      "70963740a603815a"
+    ],
+    "sources": [
+      {
+        "source": "20.-2019-Quy-che-CTSV-DHQG-HCM.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "question": "Nếu sinh viên có hành vi không đúng về việc bình luận hoặc chia sẻ nội dung không phù hợp, họ sẽ bị xử lý như thế nào và mức độ nghiêm trọng của hành vi đó được xem xét ra sao trong quy định của ĐHQG-HCM?",
+    "question_raw": "Nếu sinh viên vi phạm quy chế về bình luận hoặc chia sẻ nội dung không phù hợp, họ sẽ bị xử lý như thế nào và mức độ nghiêm trọng của hành vi đó được đánh giá ra sao trong quy chế sinh viên của ĐHQG-HCM?",
+    "answer": "Nếu sinh viên có hành động như đăng tải, bình luận, chia sẻ nội dung dung tục, bạo lực, hay vi phạm các quy định khác, sẽ có các hình thức xử lý từ cảnh cáo đến buộc thôi học. Mức độ xử lý phụ thuộc vào tính chất và mức độ nghiêm trọng của hành vi vi phạm. Bên cạnh đó, việc đánh giá kết quả rèn luyện sinh viên cũng nhằm tăng cường chất lượng giáo dục và phát triển nhân cách của sinh viên, giúp họ nâng cao năng lực hoạt động xã hội.",
+    "type": "multi_hop",
+    "relevant_ids": [
+      "0eca7c03a9e3e9bf",
+      "5e571dc53c449959"
+    ],
+    "sources": [
+      {
+        "source": "22.-2019-Quy-che-DGKQRL-DHQG-HCM.pdf",
+        "page": 2
+      },
+      {
+        "source": "3.-Phu-luc-1-30122022-Signed-2.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "question": "Ai là người phải chịu trách nhiệm thông báo về việc hoãn thi khi có sự cố không thể lường trước?",
+    "question_raw": "Ai là người có trách nhiệm gửi văn bản thông báo tình hình khi phải hoãn thi do sự cố bất khả kháng?",
+    "answer": "GV được phân công giảng dạy học phần đó phải gửi văn bản (có xác nhận của Lãnh đạo Khoa/Bộ môn quản lý giảng dạy).",
+    "type": "factoid",
+    "relevant_ids": [
+      "56ae2cd670c715c3",
+      "2306d3219a82e3ec",
+      "5fdb60eed258425d"
+    ],
+    "sources": [
+      {
+        "source": "17.-Quy-che_To-chuc-thi-HK_Tr-Tiep.ban-hanh_05.01.25-Signed-8.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "question": "Nếu sinh viên bị ngưng học thì có nhận được hỗ trợ gì không?",
+    "question_raw": "Sinh viên bị ngừng học có được hưởng hỗ trợ không?",
+    "answer": "Thời gian ngừng học không được hưởng hỗ trợ.",
+    "type": "factoid",
+    "relevant_ids": [
+      "3e663517b2fa6f21",
+      "b745221e697e70c5"
+    ],
+    "sources": [
+      {
+        "source": "9.-QD688-MGHP-2024.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "question": "Cách giải quyết khi sinh viên vi phạm quy định sẽ được tiến hành ra sao?",
+    "question_raw": "Thủ tục xử lý vi phạm quy chế sinh viên được thực hiện như thế nào?",
+    "answer": "Hình thức xử lý vi phạm quy định này do thủ trưởng đơn vị căn cứ vào quy định của nhà nước và DHQG-HCM.",
+    "type": "procedural",
+    "relevant_ids": [
+      "1ba49e5b7535f9aa",
+      "70963740a603815a"
+    ],
+    "sources": [
+      {
+        "source": "20.-2019-Quy-che-CTSV-DHQG-HCM.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "question": "CVHT có thể thông báo cho sinh viên về các quy định học tập của trường bằng cách nào?",
+    "question_raw": "Làm thế nào để CVHT cập nhật thông tin cho sinh viên về các quy chế học vụ của Nhà trường?",
+    "answer": "CVHT cần học tập, nghiên cứu, nắm vững và thường xuyên cập nhật, tư vấn cho SV những thay đổi, bổ sung của các nội dung như Quy chế của Bộ Giáo dục và Đào tạo, Quy chế học vụ, các Quy chế, Quy định, Nội quy của Nhà trường về học tập, rèn luyện và công tác SV.",
+    "type": "procedural",
+    "relevant_ids": [
+      "a592b45f2661c0fd",
+      "81f38b924a8fa2c9"
+    ],
+    "sources": [
+      {
+        "source": "18.-QD-ban-hanh-Quy-dinh-Co-van-hoc-tap.signed.signed.signed.signed.signed.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "question": "Ai sẽ là người đảm nhận việc tổng hợp và đưa ra danh sách những sinh viên đủ điều kiện để được khen thưởng?",
+    "question_raw": "Ai là người chịu trách nhiệm tổng hợp và đề xuất danh sách sinh viên đạt tiêu chuẩn khen thưởng?",
+    "answer": "Phòng Công tác Sinh viên chịu trách nhiệm tổng hợp và đề xuất danh sách sinh viên đạt tiêu chuẩn khen thưởng.",
+    "type": "factoid",
+    "relevant_ids": [
+      "604f0818fcd18e0e",
+      "09c1f7078ff0ac24",
+      "5997908309a81775"
+    ],
+    "sources": [
+      {
+        "source": "5.-Quyet-dinh-ban-hanh-_-Quy-dinh-cong-tac-khen-thuong-sinh-vien-truong-DHQT-Signed-4.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "question": "Quy định nào liên quan đến công tác sinh viên ở ĐHQG-HCM?",
+    "question_raw": "Quyết định nào quy định về công tác sinh viên tại ĐHQG-HCM?",
+    "answer": "Quyết định số 786/DHQG-CTSV ngày 24/8/2011 của Giám đốc ĐHQG-HCM.",
+    "type": "factoid",
+    "relevant_ids": [
+      "c1b404e2a2375c1a",
+      "20a5510a65f614cb"
+    ],
+    "sources": [
+      {
+        "source": "20.-2019-Quy-che-CTSV-DHQG-HCM.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "question": "Nếu em cần giúp đỡ về các vấn đề pháp lý, phòng CTSV có thể trợ giúp không?",
+    "question_raw": "Nếu sinh viên cần tư vấn pháp lý, phòng CTSV có hỗ trợ không?",
+    "answer": "phòng CTSV hỗ trợ CVHT trong công tác hỗ trợ và tư vấn pháp lý",
+    "type": "conditional",
+    "relevant_ids": [
+      "88d8181ee7b4d50e",
+      "40eb19657516265a",
+      "e90fb3ec7f4b6a17"
+    ],
+    "sources": [
+      {
+        "source": "18.-QD-ban-hanh-Quy-dinh-Co-van-hoc-tap.signed.signed.signed.signed.signed.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "question": "Chương trình học của Ban Đại học được triển khai như thế nào?",
+    "question_raw": "Cách thức thực hiện chương trình giáo dục của Ban Đại học là gì?",
+    "answer": "Ban Đại học chịu trách nhiệm tham mưu, hướng dẫn thực hiện các chương trình giáo dục; kiểm tra, giám sát việc thực hiện quy định liên quan đến công tác đào tạo.",
+    "type": "procedural",
+    "relevant_ids": [
+      "9c22e36609e2a53a",
+      "69377f3a747dc6e6",
+      "072e4766993ef9c4"
+    ],
+    "sources": [
+      {
+        "source": "20.-2019-Quy-che-CTSV-DHQG-HCM.pdf",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "question": "Nếu một sinh viên bị phạt vì thi hộ lần đầu thì sẽ bị xử lý ra sao?",
+    "question_raw": "Nếu sinh viên bị kỷ luật vì thi hộ lần đầu thì sẽ bị xử lý như thế nào?",
+    "answer": "Sinh viên bị kỷ luật ở mức đình chỉ học tập 01 năm đối với trường hợp vi phạm lần thứ nhất.",
+    "type": "procedural",
+    "relevant_ids": [
+      "1142928c470f73ce",
+      "d3f0ed94c1b6e185"
+    ],
+    "sources": [
+      {
+        "source": "3.-Phu-luc-1-30122022-Signed-2.pdf",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "question": "Làm thế nào để tổ chức bầu cử lại Ban cán sự lớp?",
+    "question_raw": "Cách thức tiến hành bầu kiện toàn Ban cán sự lớp như thế nào?",
+    "answer": "Căn cứ theo yêu cầu quản lý lớp, Cố vấn học tập và tập thể lớp thống nhất số lượng, cơ cấu bầu kiện toàn Ban cán sự lớp như sau: số lượng bầu kiện toàn Lớp trưởng (nếu có) và Lớp phó (nếu có). Cố vấn học tập phổ biến nhiệm vụ, quyền lợi của sinh viên tham gia Ban cán sự lớp. Tập thể lớp tiến hành công tác giới thiệu đề cử, tự ứng cử cho các chức danh bầu kiện toàn của Ban cán sự lớp.",
+    "type": "procedural",
+    "relevant_ids": [
+      "d1e4da2ab82a8aec",
+      "4d55379a6935a9a8"
+    ],
+    "sources": [
+      {
+        "source": "14.-Quy-dinh-doi-voi-Ban-can-su-lop-nam-2025-final-Signed-4.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "question": "CVHT có thể nhận giúp đỡ từ P.CTSV ra sao trong việc tư vấn tâm lý cho sinh viên?",
+    "question_raw": "Làm thế nào để CVHT có thể nhận được sự hỗ trợ từ P.CTSV trong việc tư vấn tâm lý cho sinh viên?",
+    "answer": "P.CTSV có trách nhiệm hỗ trợ CVHT trong công tác hỗ trợ và tư vấn pháp lý, tư vấn tâm lý cho SV.",
+    "type": "procedural",
+    "relevant_ids": [
+      "88d8181ee7b4d50e",
+      "40eb19657516265a",
+      "e90fb3ec7f4b6a17"
+    ],
+    "sources": [
+      {
+        "source": "18.-QD-ban-hanh-Quy-dinh-Co-van-hoc-tap.signed.signed.signed.signed.signed.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "question": "Nếu em có câu hỏi nào về học bổng thì phòng Đào tạo sẽ phản hồi trong thời gian bao lâu?",
+    "question_raw": "Nếu sinh viên có thắc mắc về học bổng thì P.ĐTĐH sẽ giải quyết trong bao lâu?",
+    "answer": "P.ĐTĐH nhận và giải quyết thắc mắc của sinh viên trong vòng 15 ngày làm việc kể từ ngày công bố.",
+    "type": "conditional",
+    "relevant_ids": [
+      "016f86d4e5ef0c72",
+      "a099681fdb0472ae",
+      "e8916bff98aee2eb"
+    ],
+    "sources": [
+      {
+        "source": "16.-Quy-dinh-xet-cap-hoc-bong-tai-Truong-DHQT-Signed-4.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "question": "Mình cần phải giành được giải gì để được nhận thưởng ở cấp Quốc gia hoặc Quốc tế trong các cuộc thi về văn hóa, nghệ thuật và thể thao?",
+    "question_raw": "Sinh viên cần đạt giải gì để được khen thưởng cấp Quốc gia hoặc Quốc tế trong các cuộc thi văn hóa, văn nghệ, thể thao?",
+    "answer": "Đạt giải Nhất, Nhì, Ba các cuộc thi văn hóa, văn nghệ, thể thao cấp Quốc gia hoặc Quốc tế.",
+    "type": "factoid",
+    "relevant_ids": [
+      "5e12e381b211603b",
+      "04f30cd2988b5270"
+    ],
+    "sources": [
+      {
+        "source": "5.-Quyet-dinh-ban-hanh-_-Quy-dinh-cong-tac-khen-thuong-sinh-vien-truong-DHQT-Signed-4.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "question": "Nếu sinh viên bị kỷ luật và phải nghỉ học, thì cần làm gì để ngừng nhận tiền hỗ trợ học phí?",
+    "question_raw": "Nếu sinh viên bị kỷ luật buộc thôi học thì phải làm gì để dừng nhận kinh phí hỗ trợ chi phí học tập?",
+    "answer": "Trường hợp sinh viên đã nhận kinh phí hỗ trợ chi phí học tập mà bỏ học hoặc bị kỷ luật buộc thôi học thì phải dừng chi trả kinh phí hỗ trợ chi phí học tập vào các học kỳ tiếp theo.",
+    "type": "procedural",
+    "relevant_ids": [
+      "fc2d5acba79759bc",
+      "6aa5ee10ac12faa7"
+    ],
+    "sources": [
+      {
+        "source": "9.-QD688-MGHP-2024.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "question": "Ai là người đã ban hành luật về bảo hiểm y tế?",
+    "question_raw": "Luật bảo hiểm y tế được ban hành bởi ai?",
+    "answer": "Quốc hội ban hành Luật bảo hiểm y tế.",
+    "type": "factoid",
+    "relevant_ids": [
+      "a05d639a5123e1ac",
+      "7dc03781aaac8240"
+    ],
+    "sources": [
+      {
+        "source": "26.Luat-BHYT-2008.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "question": "Ai là người sẽ bị ảnh hưởng bởi quy định này?",
+    "question_raw": "Quy định này áp dụng cho ai?",
+    "answer": "Quy định này áp dụng cho sinh viên.",
+    "type": "factoid",
+    "relevant_ids": [
+      "1ba49e5b7535f9aa",
+      "70963740a603815a"
+    ],
+    "sources": [
+      {
+        "source": "20.-2019-Quy-che-CTSV-DHQG-HCM.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "question": "Nếu mình tham gia hết các hoạt động của CTSV, thì có chắc chắn sẽ nhận được hỗ trợ tốt nhất không?",
+    "question_raw": "Nếu sinh viên tham gia đầy đủ các hoạt động do CTSV tổ chức thì có được đảm bảo phục vụ tốt nhất không?",
+    "answer": "Td chuc khrio s6t ]i ki6n sinh viOn nham dim b6o phuc vu t6t nh6t cho sinh vi€n.",
+    "type": "conditional",
+    "relevant_ids": [
+      "5ca618925cabc6e0",
+      "77baa34f6a5ee1e4"
+    ],
+    "sources": [
+      {
+        "source": "20.-2019-Quy-che-CTSV-DHQG-HCM.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "question": "Bạn có thể cho mình biết cách chuẩn bị hồ sơ sinh viên và thời gian áp dụng các quy định mới từ năm học 2024-2025 được không?",
+    "question_raw": "Mình cần biết thông tin về quy trình chuẩn bị hồ sơ sinh viên và thời gian áp dụng các quy định mới từ năm học 2024-2025, bạn có thể cho mình biết không?",
+    "answer": "Sinh viên cần chuẩn bị hồ sơ bao gồm các giấy tờ như giấy xác nhận sinh viên và thời gian công tác của Phòng Tổ chức Hành chính. Hồ sơ này phải được nộp theo hướng dẫn trên trang web của phòng CTSV. Các quy định mới sẽ có hiệu lực kể từ ngày ký và bắt đầu áp dụng từ học kỳ I năm học 2024-2025, do đó sinh viên cần lưu ý để thực hiện đúng theo yêu cầu.",
+    "type": "multi_hop",
+    "relevant_ids": [
+      "b973b5525e55b932",
+      "1eea0a562419239c"
+    ],
+    "sources": [
+      {
+        "source": "7.-TB.486-MGHP-04112014-thong-bao-P.CTSV_.pdf",
+        "page": 5
+      },
+      {
+        "source": "2.-Quyet-dinh-dieu-chinh-Quy-che-CTSV-09_1_25-Signed-4.pdf",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "question": "Sinh viên có thể làm gì để góp ý và tham gia vào việc quản lý các hoạt động học tập?",
+    "question_raw": "Cách để sinh viên tham gia đóng góp ý kiến và tham gia quản lý hoạt động giáo dục như thế nào?",
+    "answer": "Duoc tham gia d6ng g6p j' ki€n, tharn gia quin lli vd gi6m siir hoat dQng girio duc vii ciic di6u kiQn dim b6o ch6t lugng girio duc;",
+    "type": "procedural",
+    "relevant_ids": [
+      "6003569f4536c19a",
+      "fc12f43b787d8ef2",
+      "bff35f798a14a6a5"
+    ],
+    "sources": [
+      {
+        "source": "20.-2019-Quy-che-CTSV-DHQG-HCM.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "question": "Nếu tham gia vào các hoạt động học thuật và nghiên cứu thì sinh viên có được động viên không?",
+    "question_raw": "Nếu sinh viên tham gia các hoạt động học thuật và nghiên cứu khoa học thì có được khuyến khích không?",
+    "answer": "hướng dẫn, khuyến khích, tạo điều kiện cho SV tham gia các hoạt động học thuật, nghiên cứu khoa học",
+    "type": "conditional",
+    "relevant_ids": [
+      "9e47e37793fbd52f",
+      "97e05348c664251f",
+      "961f58c1decf7353"
+    ],
+    "sources": [
+      {
+        "source": "18.-QD-ban-hanh-Quy-dinh-Co-van-hoc-tap.signed.signed.signed.signed.signed.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "question": "Khi nào thì các thay đổi trong quy định về công tác sinh viên tại Trường Đại học Quốc tế có hiệu lực, và những điểm mới chính về khen thưởng và kỷ luật sinh viên là gì?",
+    "question_raw": "Quyết định sửa đổi, bổ sung Quy chế công tác sinh viên của Trường Đại học Quốc tế có hiệu lực từ khi nào và những thay đổi chính trong nội dung khen thưởng và kỷ luật sinh viên là gì?",
+    "answer": "Quyết định sửa đổi, bổ sung Quy chế công tác sinh viên Trường Đại học Quốc tế có hiệu lực kể từ ngày ký và bắt đầu áp dụng từ học kỳ I năm học 2024-2025. Những thay đổi chính trong nội dung khen thưởng và kỷ luật sinh viên bao gồm việc sửa đổi, bổ sung ủy viên thường trực và các ủy viên của Hội đồng khen thưởng và kỷ luật sinh viên, cụ thể là Trưởng phòng Phòng Công tác Sinh viên và đại diện các khoa, phòng, ban có liên quan, cùng với việc thay thế và hủy bỏ các phụ lục liên quan đến tiêu chí đánh giá kết quả rèn luyện sinh viên.",
+    "type": "multi_hop",
+    "relevant_ids": [
+      "1352c0b3ea76d8c5",
+      "0eded34390055434"
+    ],
+    "sources": [
+      {
+        "source": "2.-Quyet-dinh-dieu-chinh-Quy-che-CTSV-09_1_25-Signed-4.pdf",
+        "page": 1
+      },
+      {
+        "source": "2.-Quyet-dinh-dieu-chinh-Quy-che-CTSV-09_1_25-Signed-4.pdf",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "question": "Mình nên làm gì để tạo ra một hệ thống thông tin giúp sinh viên tìm kiếm việc làm và thực tập?",
+    "question_raw": "Làm thế nào để thiết lập hệ thống thông tin về việc làm và thực tập cho sinh viên?",
+    "answer": "Thiết lập hệ thống thông tin về việc làm, thực tập thông qua cổng thông tin giữa Trường với đơn vị sử dụng lao động.",
+    "type": "procedural",
+    "relevant_ids": [
+      "747fdfab3fdd02ce",
+      "c2d2496a82e0cb67",
+      "852ab4e26428cc30"
+    ],
+    "sources": [
+      {
+        "source": "Quy-che-CTSV-theo-QD-967-12.2022-Signed-2.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "question": "Nếu sinh viên muốn tìm hiểu về những thay đổi trong quy định học tập, họ có thể hỏi ai để được hỗ trợ?",
+    "question_raw": "Nếu sinh viên cần biết về các thay đổi trong quy chế học vụ, ai sẽ là người tư vấn cho họ?",
+    "answer": "CVHT sẽ tư vấn cho SV những thay đổi, bổ sung của các nội dung về quy chế học vụ.",
+    "type": "conditional",
+    "relevant_ids": [
+      "a592b45f2661c0fd",
+      "81f38b924a8fa2c9"
+    ],
+    "sources": [
+      {
+        "source": "18.-QD-ban-hanh-Quy-dinh-Co-van-hoc-tap.signed.signed.signed.signed.signed.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "question": "Sinh viên cần làm gì để có thể nhận được sự hỗ trợ về kinh tế - xã hội?",
+    "question_raw": "Cách để sinh viên đủ điều kiện tham gia hỗ trợ kinh tế - xã hội là gì?",
+    "answer": "Sinh viên d0n tQc thi6u s6 r'5t it nguoi o vung c6 diAu kiQn kinh t6 - x5 hQi kh6 khdn vd dpc biQt kh6 k}rdn.",
+    "type": "procedural",
+    "relevant_ids": [
+      "c2a876ffc0357bd8",
+      "22a8c1f9f9135efc"
+    ],
+    "sources": [
+      {
+        "source": "7.-TB.486-MGHP-04112014-thong-bao-P.CTSV_.pdf",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "question": "Trong báo cáo định kỳ, sinh viên cần trình bày những nội dung gì?",
+    "question_raw": "Nội dung báo cáo định kỳ của sinh viên có những gì?",
+    "answer": "Nội dung báo cáo định kỳ gồm có: Kii ho4ch CTSV hdng n6m (thrlng 2); Brio crio tg drinh giri, phiiiu tu diinh giri CTSV (cham nh6t ngity 3t/7); Bdo ciio online s6 liQu CTSV (chim nh6t ngity l5l7 vd l5/l l); 86o cdo t6ng k6t CTSV hdng nam (31/12).",
+    "type": "factoid",
+    "relevant_ids": [
+      "5ca618925cabc6e0",
+      "77baa34f6a5ee1e4"
+    ],
+    "sources": [
+      {
+        "source": "20.-2019-Quy-che-CTSV-DHQG-HCM.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "question": "Sinh viên được hưởng những quyền lợi gì về bảo hiểm y tế?",
+    "question_raw": "Sinh viên có quyền gì liên quan đến bảo hiểm y tế?",
+    "answer": "Được tổ chức bảo hiểm y tế tạm ứng kinh phí và thanh toán chi phí khám bệnh, chữa bệnh theo hợp đồng khám bệnh, chữa bệnh đã ký.",
+    "type": "factoid",
+    "relevant_ids": [
+      "cc42e74cd49b2a60",
+      "004a4d3b3e591bcf"
+    ],
+    "sources": [
+      {
+        "source": "26.Luat-BHYT-2008.pdf",
+        "page": 19
+      }
+    ]
+  }
+]

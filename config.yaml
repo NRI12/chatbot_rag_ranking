@@ -1,0 +1,71 @@
+# ─── Data ──────────────────────────────────────────────────────────────────────
+data:
+  raw_dir: "data"
+  processed_dir: "data/processed"
+
+# ─── Chunking ──────────────────────────────────────────────────────────────────
+chunking:
+  chunk_size: 800          # tăng từ 512 để chứa trọn điều khoản pháp lý
+  chunk_overlap: 150       # ~1-2 câu overlap
+
+# ─── Embedding ─────────────────────────────────────────────────────────────────
+embedding:
+  provider: "local"        # "openai" | "local"
+  openai_model: "text-embedding-3-small"
+  local_model: "bkai-foundation-models/vietnamese-bi-encoder"
+  batch_size: 32
+
+# ─── Vector Store ──────────────────────────────────────────────────────────────
+vector_store:
+  provider: "qdrant"       # "qdrant" | "pinecone"
+  qdrant_url: "${QDRANT_URL}"
+  qdrant_api_key: "${QDRANT_API_KEY}"
+  collection_name: "rag_docs"
+  vector_size: 768                      # 768 for vietnamese-bi-encoder (PhoBERT base)
+
+# ─── BM25 ──────────────────────────────────────────────────────────────────────
+bm25:
+  index_path: "data/processed/bm25.pkl"
+  k1: 1.5
+  b: 0.75
+
+# ─── Hybrid Search ─────────────────────────────────────────────────────────────
+retrieval:
+  top_k_dense: 20
+  top_k_sparse: 20
+  top_k_fusion: 20        # after RRF
+  rrf_k: 60               # RRF constant
+
+# ─── Reranking ─────────────────────────────────────────────────────────────────
+reranking:
+  enabled: true
+  provider: "cross-encoder"   # "cohere" | "cross-encoder"
+  cohere_model: "rerank-multilingual-v3.0"
+  cross_encoder_model: "AITeamVN/Vietnamese_Reranker"
+  top_k: 4
+  max_per_source: 3           # tối đa 3 chunks từ cùng 1 file
+
+# ─── LLM ───────────────────────────────────────────────────────────────────────
+llm:
+  provider: "openai"
+  model: "gpt-4o"
+  temperature: 0.0
+  max_tokens: 1024
+  system_prompt: |
+    Bạn là trợ lý tư vấn pháp luật và quy chế sinh viên của Trường Đại học Quốc tế (ĐHQG-HCM).
+    Quy tắc bắt buộc:
+    1. CHỈ trả lời dựa trên thông tin có trong [Ngữ cảnh] được cung cấp.
+    2. KHÔNG suy diễn, KHÔNG bổ sung thông tin ngoài ngữ cảnh dù bạn biết.
+    3. Trích dẫn nguyên văn các con số, thời hạn, điều khoản — không được paraphrase hay làm tròn số liệu.
+    4. Trả lời bằng tiếng Việt, rõ ràng, có trích dẫn tên văn bản và số điều khoản nếu có.
+
+# ─── API ───────────────────────────────────────────────────────────────────────
+api:
+  host: "0.0.0.0"
+  port: 8000
+
+# ─── Evaluation ────────────────────────────────────────────────────────────────
+evaluation:
+  test_queries_path: "eval/test_queries.json"
+  k_values: [1, 3, 5, 10]
+  output_dir: "eval/results"
